@@ -1,0 +1,57 @@
+const elasticsearch = require('@elastic/elasticsearch');
+
+let client = null;
+
+exports.getClient = async(req, res) =>{
+    client = new elasticsearch.Client({   
+        node: 'http://localhost:9200',
+    });
+
+    return res.status(200).send({
+        message: "Conectado",
+    });
+} 
+
+exports.insert = async(req, res) =>{
+
+
+    const result = await client.index({
+        index: 'produto',
+        type: 'type_produto',
+        body: {
+            nome: 'Coca Cola lata zero 350ml',
+            supermercado: 'dale',
+            preco: 5
+        },
+    })
+
+    return res.status(200).send({
+        message: result,
+    });
+}  
+    
+
+exports.findAll = async(req, res) =>{
+
+
+    const result = await client.search({
+        index: 'produto',
+        body: {
+            query: {
+                match : {
+                    nome : {
+                        query : "Coca Cola 350ml",
+                        fuzziness: 1,
+                        transpositions: true, 
+                        operator: "and"
+                    }
+                }
+            } 
+        } 
+    })
+
+    return res.status(200).send({
+        message: result.body.hits.hits,
+    });
+}  
+    
