@@ -1,0 +1,153 @@
+Arroz - 6,71
+Feijão - 3,59
+Macarrão - 2,44
+Leite - 4,88
+Ovos - 3,29
+Pão - 3,71
+Manteiga - 6,39
+Queijo - 9,29
+Presunto - 6,24
+Frango - 8,45
+Carne moída - 12,06
+Alface - 1,24
+Tomate - 2,35
+Cebola - 1,14
+Batata - 2,74
+Cenoura - 1,68
+Banana - 1,42
+Maçã - 3,38
+Laranja - 2,15
+Mamão - 1,92
+Abacaxi - 4,05
+Morango - 4,71
+Melancia - 6,17
+Suco de laranja - 3,26
+Refrigerante - 3,84
+Água mineral - 1,02
+Café - 5,59
+Açúcar - 2,04
+Sal - 1,02
+Óleo de soja - 4,62
+Farinha de trigo - 2,60
+Fermento em pó - 1,93
+Biscoitos - 3,07
+Chocolate - 5,34
+Sorvete - 6,35
+Cerveja - 3,14
+Vinho - 10,79
+Whisky - 27,89
+Leite condensado - 3,83
+Creme de leite - 2,88
+Achocolatado - 4,25
+Iogurte - 2,62
+Doce de leite - 4,11
+Biscoito recheado - 2,93
+Queijo ralado - 5,03
+Molho de tomate - 2,29
+Maionese - 3,53
+Ketchup - 1,69
+Mostarda - 1,87
+Catchup - 1,94
+Geléia - 3,08
+Margarina - 1,81
+Sabonete - 1,12
+Shampoo - 4,84
+Condicionador - 4,75
+Escova de dentes - 2,34
+Pasta de dente - 2,02
+Papel higiênico - 3,75
+Sabão em pó - 5,63
+Amaciante de roupas - 3,76
+Detergente - 1,85
+Esponja de cozinha - 1,05
+Desodorante - 4,62
+Perfume - 23,56
+Talco - 2,60
+Lâmina de barbear - 4,06
+Fio dental - 1,82
+Algodão - 0,93
+Pilhas - 2,96
+Lâmpadas - 3,65
+Vela - 0,91
+Fósforos - 0,96
+Enlatados - 3,76
+Salgadinhos - 4,64
+Pipoca - 1,91
+Queijo coalho - 6,67
+Mortadela - 5,69
+Salsicha - 3,82
+Linguiça - 4,97
+Salame - 7,50
+Peito de peru - 8,69
+Picanha - 17,20
+Filé de peixe - 11,59
+Atum - 5,31
+Salmão - 13,14
+Camarão - 14,05
+Ostras - 16,79
+Amêndoas - 7,29
+Castanhas - 8,78
+Nozes - 8,05
+Pistaches - 10,89
+Suco em pó - 1,55
+Chá - 3,14
+Massa de pastel - 2,18
+Molho de pimenta - 1,58
+Batata chips - 3,29
+Cereais - 5,77
+Granola - 4,80
+Barra de cereal - 1,78
+Geleia de mocotó - 2,68
+Feijão preto - 3,68
+Feijão carioca - 3,55
+Milho enlatado - 2,66
+Ervilha enlatada - 2,38
+Lentilha enlatada - 2,41
+Amido de milho - 2,51
+Farinha de mandioca - 2,24
+Farofa pronta - 3,38
+Molho shoyu - 3,18
+Azeite de oliva - 5,74
+Vinagre - 1,34
+Azeitonas - 3,23
+Palmito - 4,58
+Pepino em conserva - 2,43
+Abobrinha - 1,36
+Berinjela - 1,77
+Repolho - 0,92
+Milho verde - 2,58
+Couve-flor - 3,41
+Brócolis - 3,39
+Alho - 1,25
+Salsa - 0,86
+Hortelã - 0,98
+Manjericão - 1,62
+Alecrim - 0,88
+Salsinha - 1,03
+Orégano - 1,58
+Pimenta-do-reino - 2,02
+Pimenta vermelha - 2,32
+Mel - 3,89
+Chocolate em pó - 3,01
+Gelatina - 0,94
+Leite em pó - 5,03
+Cuscuz - 2,39
+Iogurte de frutas - 2,33
+Chantilly - 3,17
+Pudim - 2,55
+Gelatina em pó - 0,97
+Bala - 0,55
+Pipoca doce - 1,77
+Amendoim - 1,41
+Salgadinho de milho - 3,81
+Salgadinho de queijo - 3,50
+Salgadinho de cebola - 3,58
+Salgadinho de churrasco - 3,77
+Salgadinho de bacon - 3,22
+Salgadinho de pimenta - 3,33
+Salgadinho de limão - 3,59
+Salgadinho de salsa - 3,29
+Salgadinho de alho - 3,45
+Salgadinho de ervas - 3,31
+Salgadinho de queijo e cebola - 3,47
+Salgadinho de presunto e queijo - 4,43

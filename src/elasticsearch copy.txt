@@ -14,7 +14,7 @@ exports.getClient = async(req, res) =>{
 
 exports.insert = async(req, res) =>{
 
-
+    
     const result = await client.index({
         index: 'produto',
         type: 'type_produto',

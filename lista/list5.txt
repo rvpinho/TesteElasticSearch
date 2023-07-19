@@ -1,0 +1,153 @@
+Arroz - 7,89
+Feijão - 4,29
+Macarrão - 2,79
+Leite - 5,99
+Ovos - 3,49
+Pão - 3,99
+Manteiga - 6,49
+Queijo - 11,99
+Presunto - 5,99
+Frango - 9,49
+Carne moída - 13,99
+Alface - 1,59
+Tomate - 2,99
+Cebola - 1,29
+Batata - 2,99
+Cenoura - 1,99
+Banana - 1,79
+Maçã - 3,99
+Laranja - 2,79
+Mamão - 2,49
+Abacaxi - 4,49
+Morango - 6,99
+Melancia - 7,99
+Suco de laranja - 3,49
+Refrigerante - 4,99
+Água mineral - 1,49
+Café - 6,99
+Açúcar - 2,99
+Sal - 1,29
+Óleo de soja - 4,49
+Farinha de trigo - 2,79
+Fermento em pó - 2,49
+Biscoitos - 3,99
+Chocolate - 5,49
+Sorvete - 6,99
+Cerveja - 4,99
+Vinho - 11,99
+Whisky - 39,99
+Leite condensado - 3,99
+Creme de leite - 2,99
+Achocolatado - 4,49
+Iogurte - 2,79
+Doce de leite - 4,99
+Biscoito recheado - 3,99
+Queijo ralado - 5,99
+Molho de tomate - 2,99
+Maionese - 4,29
+Ketchup - 2,49
+Mostarda - 2,49
+Catchup - 2,49
+Geléia - 3,99
+Margarina - 2,49
+Sabonete - 1,79
+Shampoo - 5,99
+Condicionador - 5,99
+Escova de dentes - 3,49
+Pasta de dente - 2,99
+Papel higiênico - 4,49
+Sabão em pó - 6,99
+Amaciante de roupas - 4,99
+Detergente - 2,49
+Esponja de cozinha - 1,99
+Desodorante - 5,49
+Perfume - 29,99
+Talco - 3,49
+Lâmina de barbear - 4,99
+Fio dental - 2,49
+Algodão - 1,79
+Pilhas - 3,99
+Lâmpadas - 4,49
+Vela - 1,99
+Fósforos - 1,29
+Enlatados - 3,99
+Salgadinhos - 4,99
+Pipoca - 2,99
+Queijo coalho - 7,99
+Mortadela - 6,99
+Salsicha - 4,99
+Linguiça - 5,99
+Salame - 8,99
+Peito de peru - 9,99
+Picanha - 19,99
+Filé de peixe - 11,99
+Atum - 5,99
+Salmão - 14,99
+Camarão - 16,99
+Ostras - 19,99
+Amêndoas - 7,99
+Castanhas - 9,99
+Nozes - 8,99
+Pistaches - 12,99
+Suco em pó - 1,99
+Chá - 3,99
+Massa de pastel - 2,99
+Molho de pimenta - 2,49
+Batata chips - 4,99
+Cereais - 6,99
+Granola - 5,99
+Barra de cereal - 2,99
+Geleia de mocotó - 3,99
+Feijão preto - 3,49
+Feijão carioca - 3,49
+Milho enlatado - 2,99
+Ervilha enlatada - 2,99
+Lentilha enlatada - 2,99
+Amido de milho - 2,99
+Farinha de mandioca - 2,99
+Farofa pronta - 3,99
+Molho shoyu - 3,49
+Azeite de oliva - 6,99
+Vinagre - 1,99
+Azeitonas - 3,99
+Palmito - 4,99
+Pepino em conserva - 2,99
+Abobrinha - 1,99
+Berinjela - 2,49
+Repolho - 1,49
+Milho verde - 2,99
+Couve-flor - 3,99
+Brócolis - 3,99
+Alho - 1,99
+Salsa - 1,49
+Hortelã - 1,49
+Manjericão - 1,99
+Alecrim - 1,49
+Salsinha - 1,49
+Orégano - 1,99
+Pimenta-do-reino - 2,49
+Pimenta vermelha - 2,99
+Mel - 4,99
+Chocolate em pó - 3,99
+Gelatina - 1,99
+Leite em pó - 5,99
+Cuscuz - 2,99
+Iogurte de frutas - 2,99
+Chantilly - 3,49
+Pudim - 2,99
+Gelatina em pó - 1,99
+Bala - 0,99
+Pipoca doce - 2,99
+Amendoim - 1,99
+Salgadinho de milho - 3,99
+Salgadinho de queijo - 3,99
+Salgadinho de cebola - 3,99
+Salgadinho de churrasco - 3,99
+Salgadinho de bacon - 3,99
+Salgadinho de pimenta - 3,99
+Salgadinho de limão - 3,99
+Salgadinho de salsa - 3,99
+Salgadinho de alho - 3,99
+Salgadinho de ervas - 3,99
+Salgadinho de queijo e cebola - 3,99
+Salgadinho de presunto e queijo - 5,49
