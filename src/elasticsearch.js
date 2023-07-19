@@ -1291,3 +1291,6 @@ exports.findAll = async(req, res) =>{
     });
 }  
     
+
+// elasticdump \ --input=http://localhost:9200/produto/ --output=EmployeeData.json \ --type=data
+// elasticdump --bulk=true --input=EmployeeData.json --output=http://localhost:9200/produto

@@ -1,0 +1,1224 @@
+{"_index":"produto","_type":"type_produto","_id":"CMnga4kBtlA6u5f4V9Su","_score":1,"_source":{"nome":"Arroz","supermercado":"BH","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ccnga4kBtlA6u5f4V9TQ","_score":1,"_source":{"nome":"Feijão","supermercado":"BH","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Csnga4kBtlA6u5f4V9TU","_score":1,"_source":{"nome":"Macarrão","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"C8nga4kBtlA6u5f4V9TZ","_score":1,"_source":{"nome":"Leite","supermercado":"BH","preco":"4.79"}}
+{"_index":"produto","_type":"type_produto","_id":"DMnga4kBtlA6u5f4V9Te","_score":1,"_source":{"nome":"Ovos","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Dcnga4kBtlA6u5f4V9Ti","_score":1,"_source":{"nome":"Pão","supermercado":"BH","preco":"3.29"}}
+{"_index":"produto","_type":"type_produto","_id":"Dsnga4kBtlA6u5f4V9Tm","_score":1,"_source":{"nome":"Manteiga","supermercado":"BH","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"D8nga4kBtlA6u5f4V9Tq","_score":1,"_source":{"nome":"Queijo","supermercado":"BH","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"EMnga4kBtlA6u5f4V9Tu","_score":1,"_source":{"nome":"Presunto","supermercado":"BH","preco":"7.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ecnga4kBtlA6u5f4V9Ty","_score":1,"_source":{"nome":"Frango","supermercado":"BH","preco":"9.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Esnga4kBtlA6u5f4V9T1","_score":1,"_source":{"nome":"Carne moída","supermercado":"BH","preco":"12.99"}}
+{"_index":"produto","_type":"type_produto","_id":"E8nga4kBtlA6u5f4V9T5","_score":1,"_source":{"nome":"Alface","supermercado":"BH","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"FMnga4kBtlA6u5f4V9T9","_score":1,"_source":{"nome":"Tomate","supermercado":"BH","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Fcnga4kBtlA6u5f4WNQB","_score":1,"_source":{"nome":"Cebola","supermercado":"BH","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Fsnga4kBtlA6u5f4WNQG","_score":1,"_source":{"nome":"Batata","supermercado":"BH","preco":"2.29"}}
+{"_index":"produto","_type":"type_produto","_id":"F8nga4kBtlA6u5f4WNQK","_score":1,"_source":{"nome":"Cenoura","supermercado":"BH","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"GMnga4kBtlA6u5f4WNQO","_score":1,"_source":{"nome":"Banana","supermercado":"BH","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Gcnga4kBtlA6u5f4WNQR","_score":1,"_source":{"nome":"Maçã","supermercado":"BH","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Gsnga4kBtlA6u5f4WNQV","_score":1,"_source":{"nome":"Laranja","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"G8nga4kBtlA6u5f4WNQZ","_score":1,"_source":{"nome":"Mamão","supermercado":"BH","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"HMnga4kBtlA6u5f4WNQd","_score":1,"_source":{"nome":"Abacaxi","supermercado":"BH","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Hcnga4kBtlA6u5f4WNQg","_score":1,"_source":{"nome":"Morango","supermercado":"BH","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Hsnga4kBtlA6u5f4WNQk","_score":1,"_source":{"nome":"Melancia","supermercado":"BH","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"H8nga4kBtlA6u5f4WNQo","_score":1,"_source":{"nome":"Suco de laranja","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"IMnga4kBtlA6u5f4WNQr","_score":1,"_source":{"nome":"Refrigerante","supermercado":"BH","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Icnga4kBtlA6u5f4WNQv","_score":1,"_source":{"nome":"Água mineral","supermercado":"BH","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Isnga4kBtlA6u5f4WNQy","_score":1,"_source":{"nome":"Café","supermercado":"BH","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"I8nga4kBtlA6u5f4WNQ2","_score":1,"_source":{"nome":"Açúcar","supermercado":"BH","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"JMnga4kBtlA6u5f4WNQ6","_score":1,"_source":{"nome":"Sal","supermercado":"BH","preco":"1.29"}}
+{"_index":"produto","_type":"type_produto","_id":"Jcnga4kBtlA6u5f4WNQ9","_score":1,"_source":{"nome":"Óleo de soja","supermercado":"BH","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Jsnga4kBtlA6u5f4WNRB","_score":1,"_source":{"nome":"Farinha de trigo","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"J8nga4kBtlA6u5f4WNRG","_score":1,"_source":{"nome":"Fermento em pó","supermercado":"BH","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"KMnga4kBtlA6u5f4WNRK","_score":1,"_source":{"nome":"Biscoitos","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Kcnga4kBtlA6u5f4WNRO","_score":1,"_source":{"nome":"Chocolate","supermercado":"BH","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Ksnga4kBtlA6u5f4WNRS","_score":1,"_source":{"nome":"Sorvete","supermercado":"BH","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"K8nga4kBtlA6u5f4WNRW","_score":1,"_source":{"nome":"Cerveja","supermercado":"BH","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"LMnga4kBtlA6u5f4WNRa","_score":1,"_source":{"nome":"Vinho","supermercado":"BH","preco":"12.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Lcnga4kBtlA6u5f4WNRe","_score":1,"_source":{"nome":"Whisky","supermercado":"BH","preco":"39.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Lsnga4kBtlA6u5f4WNRi","_score":1,"_source":{"nome":"Leite condensado","supermercado":"BH","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"L8nga4kBtlA6u5f4WNRl","_score":1,"_source":{"nome":"Creme de leite","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"MMnga4kBtlA6u5f4WNRp","_score":1,"_source":{"nome":"Achocolatado","supermercado":"BH","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Mcnga4kBtlA6u5f4WNRs","_score":1,"_source":{"nome":"Iogurte","supermercado":"BH","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Msnga4kBtlA6u5f4WNRv","_score":1,"_source":{"nome":"Doce de leite","supermercado":"BH","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"M8nga4kBtlA6u5f4WNRy","_score":1,"_source":{"nome":"Biscoito recheado","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"NMnga4kBtlA6u5f4WNR2","_score":1,"_source":{"nome":"Queijo ralado","supermercado":"BH","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ncnga4kBtlA6u5f4WNR5","_score":1,"_source":{"nome":"Molho de tomate","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Nsnga4kBtlA6u5f4WNR8","_score":1,"_source":{"nome":"Maionese","supermercado":"BH","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"N8nga4kBtlA6u5f4WNSA","_score":1,"_source":{"nome":"Ketchup","supermercado":"BH","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"OMnga4kBtlA6u5f4WNSE","_score":1,"_source":{"nome":"Mostarda","supermercado":"BH","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Ocnga4kBtlA6u5f4WNSH","_score":1,"_source":{"nome":"Catchup","supermercado":"BH","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Osnga4kBtlA6u5f4WNSL","_score":1,"_source":{"nome":"Geléia","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"O8nga4kBtlA6u5f4WNSP","_score":1,"_source":{"nome":"Margarina","supermercado":"BH","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"PMnga4kBtlA6u5f4WNSS","_score":1,"_source":{"nome":"Sabonete","supermercado":"BH","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Pcnga4kBtlA6u5f4WNSW","_score":1,"_source":{"nome":"Shampoo","supermercado":"BH","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Psnga4kBtlA6u5f4WNSZ","_score":1,"_source":{"nome":"Condicionador","supermercado":"BH","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"P8nga4kBtlA6u5f4WNSd","_score":1,"_source":{"nome":"Escova de dentes","supermercado":"BH","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"QMnga4kBtlA6u5f4WNSg","_score":1,"_source":{"nome":"Pasta de dente","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Qcnga4kBtlA6u5f4WNSk","_score":1,"_source":{"nome":"Papel higiênico","supermercado":"BH","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Qsnga4kBtlA6u5f4WNSo","_score":1,"_source":{"nome":"Sabão em pó","supermercado":"BH","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Q8nga4kBtlA6u5f4WNSr","_score":1,"_source":{"nome":"Amaciante de roupas","supermercado":"BH","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"RMnga4kBtlA6u5f4WNSv","_score":1,"_source":{"nome":"Detergente","supermercado":"BH","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Rcnga4kBtlA6u5f4WNSy","_score":1,"_source":{"nome":"Esponja de cozinha","supermercado":"BH","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Rsnga4kBtlA6u5f4WNS3","_score":1,"_source":{"nome":"Desodorante","supermercado":"BH","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"R8nga4kBtlA6u5f4WNS6","_score":1,"_source":{"nome":"Perfume","supermercado":"BH","preco":"29.99"}}
+{"_index":"produto","_type":"type_produto","_id":"SMnga4kBtlA6u5f4WNS-","_score":1,"_source":{"nome":"Talco","supermercado":"BH","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Scnga4kBtlA6u5f4WNTB","_score":1,"_source":{"nome":"Lâmina de barbear","supermercado":"BH","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ssnga4kBtlA6u5f4WNTE","_score":1,"_source":{"nome":"Fio dental","supermercado":"BH","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"S8nga4kBtlA6u5f4WNTI","_score":1,"_source":{"nome":"Algodão","supermercado":"BH","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"TMnga4kBtlA6u5f4WNTL","_score":1,"_source":{"nome":"Pilhas","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Tcnga4kBtlA6u5f4WNTO","_score":1,"_source":{"nome":"Lâmpadas","supermercado":"BH","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Tsnga4kBtlA6u5f4WNTR","_score":1,"_source":{"nome":"Vela","supermercado":"BH","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"T8nga4kBtlA6u5f4WNTV","_score":1,"_source":{"nome":"Fósforos","supermercado":"BH","preco":"1.29"}}
+{"_index":"produto","_type":"type_produto","_id":"UMnga4kBtlA6u5f4WNTY","_score":1,"_source":{"nome":"Enlatados","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ucnga4kBtlA6u5f4WNTc","_score":1,"_source":{"nome":"Salgadinhos","supermercado":"BH","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Usnga4kBtlA6u5f4WNTf","_score":1,"_source":{"nome":"Pipoca","supermercado":"BH","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"U8nga4kBtlA6u5f4WNTj","_score":1,"_source":{"nome":"Queijo coalho","supermercado":"BH","preco":"7.99"}}
+{"_index":"produto","_type":"type_produto","_id":"VMnga4kBtlA6u5f4WNTm","_score":1,"_source":{"nome":"Mortadela","supermercado":"BH","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Vcnga4kBtlA6u5f4WNTq","_score":1,"_source":{"nome":"Salsicha","supermercado":"BH","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Vsnga4kBtlA6u5f4WNTt","_score":1,"_source":{"nome":"Linguiça","supermercado":"BH","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"V8nga4kBtlA6u5f4WNTw","_score":1,"_source":{"nome":"Salame","supermercado":"BH","preco":"8.99"}}
+{"_index":"produto","_type":"type_produto","_id":"WMnga4kBtlA6u5f4WNTz","_score":1,"_source":{"nome":"Peito de peru","supermercado":"BH","preco":"9.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Wcnga4kBtlA6u5f4WNT3","_score":1,"_source":{"nome":"Picanha","supermercado":"BH","preco":"19.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Wsnga4kBtlA6u5f4WNT7","_score":1,"_source":{"nome":"Filé de peixe","supermercado":"BH","preco":"11.99"}}
+{"_index":"produto","_type":"type_produto","_id":"W8nga4kBtlA6u5f4WNT-","_score":1,"_source":{"nome":"Atum","supermercado":"BH","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"XMnga4kBtlA6u5f4WdQB","_score":1,"_source":{"nome":"Salmão","supermercado":"BH","preco":"14.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Xcnga4kBtlA6u5f4WdQF","_score":1,"_source":{"nome":"Camarão","supermercado":"BH","preco":"16.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Xsnga4kBtlA6u5f4WdQJ","_score":1,"_source":{"nome":"Ostras","supermercado":"BH","preco":"19.99"}}
+{"_index":"produto","_type":"type_produto","_id":"X8nga4kBtlA6u5f4WdQM","_score":1,"_source":{"nome":"Amêndoas","supermercado":"BH","preco":"7.99"}}
+{"_index":"produto","_type":"type_produto","_id":"YMnga4kBtlA6u5f4WdQQ","_score":1,"_source":{"nome":"Castanhas","supermercado":"BH","preco":"9.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ycnga4kBtlA6u5f4WdQT","_score":1,"_source":{"nome":"Nozes","supermercado":"BH","preco":"8.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ysnga4kBtlA6u5f4WdQX","_score":1,"_source":{"nome":"Pistaches","supermercado":"BH","preco":"12.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Y8nga4kBtlA6u5f4WdQa","_score":1,"_source":{"nome":"Suco em pó","supermercado":"BH","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"ZMnga4kBtlA6u5f4WdQe","_score":1,"_source":{"nome":"Chá","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Zcnga4kBtlA6u5f4WdQh","_score":1,"_source":{"nome":"Massa de pastel","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Zsnga4kBtlA6u5f4WdQl","_score":1,"_source":{"nome":"Molho de pimenta","supermercado":"BH","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Z8nga4kBtlA6u5f4WdQo","_score":1,"_source":{"nome":"Batata chips","supermercado":"BH","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"aMnga4kBtlA6u5f4WdQr","_score":1,"_source":{"nome":"Cereais","supermercado":"BH","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"acnga4kBtlA6u5f4WdQv","_score":1,"_source":{"nome":"Granola","supermercado":"BH","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"asnga4kBtlA6u5f4WdQy","_score":1,"_source":{"nome":"Barra de cereal","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"a8nga4kBtlA6u5f4WdQ2","_score":1,"_source":{"nome":"Geleia de mocotó","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"bMnga4kBtlA6u5f4WdQ5","_score":1,"_source":{"nome":"Feijão preto","supermercado":"BH","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"bcnga4kBtlA6u5f4WdQ9","_score":1,"_source":{"nome":"Feijão carioca","supermercado":"BH","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"bsnga4kBtlA6u5f4WdRA","_score":1,"_source":{"nome":"Milho enlatado","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"b8nga4kBtlA6u5f4WdRE","_score":1,"_source":{"nome":"Ervilha enlatada","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"cMnga4kBtlA6u5f4WdRH","_score":1,"_source":{"nome":"Lentilha enlatada","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"ccnga4kBtlA6u5f4WdRK","_score":1,"_source":{"nome":"Amido de milho","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"csnga4kBtlA6u5f4WdRO","_score":1,"_source":{"nome":"Farinha de mandioca","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"c8nga4kBtlA6u5f4WdRR","_score":1,"_source":{"nome":"Farofa pronta","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"dMnga4kBtlA6u5f4WdRV","_score":1,"_source":{"nome":"Molho shoyu","supermercado":"BH","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"dcnga4kBtlA6u5f4WdRY","_score":1,"_source":{"nome":"Azeite de oliva","supermercado":"BH","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"dsnga4kBtlA6u5f4WdRc","_score":1,"_source":{"nome":"Vinagre","supermercado":"BH","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"d8nga4kBtlA6u5f4WdRf","_score":1,"_source":{"nome":"Azeitonas","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"eMnga4kBtlA6u5f4WdRi","_score":1,"_source":{"nome":"Palmito","supermercado":"BH","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"ecnga4kBtlA6u5f4WdRm","_score":1,"_source":{"nome":"Pepino em conserva","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"esnga4kBtlA6u5f4WdRq","_score":1,"_source":{"nome":"Abobrinha","supermercado":"BH","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"e8nga4kBtlA6u5f4WdRt","_score":1,"_source":{"nome":"Berinjela","supermercado":"BH","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"fMnga4kBtlA6u5f4WdRw","_score":1,"_source":{"nome":"Repolho","supermercado":"BH","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"fcnga4kBtlA6u5f4WdRz","_score":1,"_source":{"nome":"Milho verde","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"fsnga4kBtlA6u5f4WdR3","_score":1,"_source":{"nome":"Couve-flor","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"f8nga4kBtlA6u5f4WdR6","_score":1,"_source":{"nome":"Brócolis","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"gMnga4kBtlA6u5f4WdR9","_score":1,"_source":{"nome":"Alho","supermercado":"BH","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"gcnga4kBtlA6u5f4WdSA","_score":1,"_source":{"nome":"Salsa","supermercado":"BH","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"gsnga4kBtlA6u5f4WdSD","_score":1,"_source":{"nome":"Hortelã","supermercado":"BH","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"g8nga4kBtlA6u5f4WdSH","_score":1,"_source":{"nome":"Manjericão","supermercado":"BH","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"hMnga4kBtlA6u5f4WdSK","_score":1,"_source":{"nome":"Alecrim","supermercado":"BH","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"hcnga4kBtlA6u5f4WdSN","_score":1,"_source":{"nome":"Salsinha","supermercado":"BH","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"hsnga4kBtlA6u5f4WdSQ","_score":1,"_source":{"nome":"Orégano","supermercado":"BH","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"h8nga4kBtlA6u5f4WdSU","_score":1,"_source":{"nome":"Pimenta-do-reino","supermercado":"BH","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"iMnga4kBtlA6u5f4WdSX","_score":1,"_source":{"nome":"Pimenta vermelha","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"icnga4kBtlA6u5f4WdSa","_score":1,"_source":{"nome":"Mel","supermercado":"BH","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"isnga4kBtlA6u5f4WdSe","_score":1,"_source":{"nome":"Chocolate em pó","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"i8nga4kBtlA6u5f4WdSh","_score":1,"_source":{"nome":"Gelatina","supermercado":"BH","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"jMnga4kBtlA6u5f4WdSk","_score":1,"_source":{"nome":"Leite em pó","supermercado":"BH","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"jcnga4kBtlA6u5f4WdSn","_score":1,"_source":{"nome":"Cuscuz","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"jsnga4kBtlA6u5f4WdSr","_score":1,"_source":{"nome":"Iogurte de frutas","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"j8nga4kBtlA6u5f4WdSu","_score":1,"_source":{"nome":"Chantilly","supermercado":"BH","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"kMnga4kBtlA6u5f4WdSx","_score":1,"_source":{"nome":"Pudim","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"kcnga4kBtlA6u5f4WdS1","_score":1,"_source":{"nome":"Gelatina em pó","supermercado":"BH","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"ksnga4kBtlA6u5f4WdS4","_score":1,"_source":{"nome":"Bala","supermercado":"BH","preco":"0.99"}}
+{"_index":"produto","_type":"type_produto","_id":"k8nga4kBtlA6u5f4WdS7","_score":1,"_source":{"nome":"Pipoca doce","supermercado":"BH","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"lMnga4kBtlA6u5f4WdS_","_score":1,"_source":{"nome":"Amendoim","supermercado":"BH","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"lcnga4kBtlA6u5f4WdTC","_score":1,"_source":{"nome":"Salgadinho de milho","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"lsnga4kBtlA6u5f4WdTF","_score":1,"_source":{"nome":"Salgadinho de queijo","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"l8nga4kBtlA6u5f4WdTI","_score":1,"_source":{"nome":"Salgadinho de cebola","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"mMnga4kBtlA6u5f4WdTL","_score":1,"_source":{"nome":"Salgadinho de churrasco","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"mcnga4kBtlA6u5f4WdTO","_score":1,"_source":{"nome":"Salgadinho de bacon","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"msnga4kBtlA6u5f4WdTS","_score":1,"_source":{"nome":"Salgadinho de pimenta","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"m8nga4kBtlA6u5f4WdTV","_score":1,"_source":{"nome":"Salgadinho de limão","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"nMnga4kBtlA6u5f4WdTY","_score":1,"_source":{"nome":"Salgadinho de salsa","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"ncnga4kBtlA6u5f4WdTb","_score":1,"_source":{"nome":"Salgadinho de alho","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"nsnga4kBtlA6u5f4WdTe","_score":1,"_source":{"nome":"Salgadinho de ervas","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"n8nga4kBtlA6u5f4WdTh","_score":1,"_source":{"nome":"Salgadinho de queijo e cebola","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"oMnga4kBtlA6u5f4WdTl","_score":1,"_source":{"nome":"Salgadinho de presunto e queijo","supermercado":"BH","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"ocnga4kBtlA6u5f4WdTo","_score":1,"_source":{"nome":"Arroz","supermercado":"Carrefour","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"osnga4kBtlA6u5f4WdTs","_score":1,"_source":{"nome":"Feijão","supermercado":"Carrefour","preco":"4.79"}}
+{"_index":"produto","_type":"type_produto","_id":"o8nga4kBtlA6u5f4WdTv","_score":1,"_source":{"nome":"Macarrão","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"pMnga4kBtlA6u5f4WdTz","_score":1,"_source":{"nome":"Leite","supermercado":"Carrefour","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"pcnga4kBtlA6u5f4WdT2","_score":1,"_source":{"nome":"Ovos","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"psnga4kBtlA6u5f4WdT5","_score":1,"_source":{"nome":"Pão","supermercado":"Carrefour","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"p8nga4kBtlA6u5f4WdT8","_score":1,"_source":{"nome":"Manteiga","supermercado":"Carrefour","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"qMnga4kBtlA6u5f4WdT_","_score":1,"_source":{"nome":"Queijo","supermercado":"Carrefour","preco":"8.99"}}
+{"_index":"produto","_type":"type_produto","_id":"qcnga4kBtlA6u5f4WtQD","_score":1,"_source":{"nome":"Presunto","supermercado":"Carrefour","preco":"9.99"}}
+{"_index":"produto","_type":"type_produto","_id":"qsnga4kBtlA6u5f4WtQG","_score":1,"_source":{"nome":"Frango","supermercado":"Carrefour","preco":"12.49"}}
+{"_index":"produto","_type":"type_produto","_id":"q8nga4kBtlA6u5f4WtQK","_score":1,"_source":{"nome":"Carne moída","supermercado":"Carrefour","preco":"15.99"}}
+{"_index":"produto","_type":"type_produto","_id":"rMnga4kBtlA6u5f4WtQN","_score":1,"_source":{"nome":"Alface","supermercado":"Carrefour","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"rcnga4kBtlA6u5f4WtQQ","_score":1,"_source":{"nome":"Tomate","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"rsnga4kBtlA6u5f4WtQU","_score":1,"_source":{"nome":"Cebola","supermercado":"Carrefour","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"r8nga4kBtlA6u5f4WtQX","_score":1,"_source":{"nome":"Batata","supermercado":"Carrefour","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"sMnga4kBtlA6u5f4WtQa","_score":1,"_source":{"nome":"Cenoura","supermercado":"Carrefour","preco":"2.29"}}
+{"_index":"produto","_type":"type_produto","_id":"scnga4kBtlA6u5f4WtQd","_score":1,"_source":{"nome":"Banana","supermercado":"Carrefour","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"ssnga4kBtlA6u5f4WtQh","_score":1,"_source":{"nome":"Maçã","supermercado":"Carrefour","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"s8nga4kBtlA6u5f4WtQk","_score":1,"_source":{"nome":"Laranja","supermercado":"Carrefour","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"tMnga4kBtlA6u5f4WtQn","_score":1,"_source":{"nome":"Mamão","supermercado":"Carrefour","preco":"3.29"}}
+{"_index":"produto","_type":"type_produto","_id":"tcnga4kBtlA6u5f4WtQr","_score":1,"_source":{"nome":"Abacaxi","supermercado":"Carrefour","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"tsnga4kBtlA6u5f4WtQu","_score":1,"_source":{"nome":"Morango","supermercado":"Carrefour","preco":"7.49"}}
+{"_index":"produto","_type":"type_produto","_id":"t8nga4kBtlA6u5f4WtQx","_score":1,"_source":{"nome":"Melancia","supermercado":"Carrefour","preco":"7.99"}}
+{"_index":"produto","_type":"type_produto","_id":"uMnga4kBtlA6u5f4WtQ0","_score":1,"_source":{"nome":"Suco de laranja","supermercado":"Carrefour","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"ucnga4kBtlA6u5f4WtQ4","_score":1,"_source":{"nome":"Refrigerante","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"usnga4kBtlA6u5f4WtQ7","_score":1,"_source":{"nome":"Água mineral","supermercado":"Carrefour","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"u8nga4kBtlA6u5f4WtQ-","_score":1,"_source":{"nome":"Café","supermercado":"Carrefour","preco":"7.99"}}
+{"_index":"produto","_type":"type_produto","_id":"vMnga4kBtlA6u5f4WtRB","_score":1,"_source":{"nome":"Açúcar","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"vcnga4kBtlA6u5f4WtRE","_score":1,"_source":{"nome":"Sal","supermercado":"Carrefour","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"vsnga4kBtlA6u5f4WtRH","_score":1,"_source":{"nome":"Óleo de soja","supermercado":"Carrefour","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"v8nga4kBtlA6u5f4WtRL","_score":1,"_source":{"nome":"Farinha de trigo","supermercado":"Carrefour","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"wMnga4kBtlA6u5f4WtRO","_score":1,"_source":{"nome":"Fermento em pó","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"wcnga4kBtlA6u5f4WtRR","_score":1,"_source":{"nome":"Biscoitos","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"wsnga4kBtlA6u5f4WtRU","_score":1,"_source":{"nome":"Chocolate","supermercado":"Carrefour","preco":"7.49"}}
+{"_index":"produto","_type":"type_produto","_id":"w8nga4kBtlA6u5f4WtRX","_score":1,"_source":{"nome":"Sorvete","supermercado":"Carrefour","preco":"7.99"}}
+{"_index":"produto","_type":"type_produto","_id":"xMnga4kBtlA6u5f4WtRb","_score":1,"_source":{"nome":"Cerveja","supermercado":"Carrefour","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"xcnga4kBtlA6u5f4WtRe","_score":1,"_source":{"nome":"Vinho","supermercado":"Carrefour","preco":"14.99"}}
+{"_index":"produto","_type":"type_produto","_id":"xsnga4kBtlA6u5f4WtRi","_score":1,"_source":{"nome":"Whisky","supermercado":"Carrefour","preco":"49.99"}}
+{"_index":"produto","_type":"type_produto","_id":"x8nga4kBtlA6u5f4WtRl","_score":1,"_source":{"nome":"Leite condensado","supermercado":"Carrefour","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"yMnga4kBtlA6u5f4WtRo","_score":1,"_source":{"nome":"Creme de leite","supermercado":"Carrefour","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"ycnga4kBtlA6u5f4WtRr","_score":1,"_source":{"nome":"Achocolatado","supermercado":"Carrefour","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"ysnga4kBtlA6u5f4WtRu","_score":1,"_source":{"nome":"Iogurte","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"y8nga4kBtlA6u5f4WtRx","_score":1,"_source":{"nome":"Doce de leite","supermercado":"Carrefour","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"zMnga4kBtlA6u5f4WtR0","_score":1,"_source":{"nome":"Biscoito recheado","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"zcnga4kBtlA6u5f4WtR3","_score":1,"_source":{"nome":"Queijo ralado","supermercado":"Carrefour","preco":"7.49"}}
+{"_index":"produto","_type":"type_produto","_id":"zsnga4kBtlA6u5f4WtR7","_score":1,"_source":{"nome":"Molho de tomate","supermercado":"Carrefour","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"z8nga4kBtlA6u5f4WtR-","_score":1,"_source":{"nome":"Maionese","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"0Mnga4kBtlA6u5f4WtSB","_score":1,"_source":{"nome":"Ketchup","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"0cnga4kBtlA6u5f4WtSE","_score":1,"_source":{"nome":"Mostarda","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"0snga4kBtlA6u5f4WtSH","_score":1,"_source":{"nome":"Catchup","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"08nga4kBtlA6u5f4WtSL","_score":1,"_source":{"nome":"Geléia","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"1Mnga4kBtlA6u5f4WtSP","_score":1,"_source":{"nome":"Margarina","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"1cnga4kBtlA6u5f4WtSS","_score":1,"_source":{"nome":"Sabonete","supermercado":"Carrefour","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"1snga4kBtlA6u5f4WtSV","_score":1,"_source":{"nome":"Shampoo","supermercado":"Carrefour","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"18nga4kBtlA6u5f4WtSY","_score":1,"_source":{"nome":"Condicionador","supermercado":"Carrefour","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"2Mnga4kBtlA6u5f4WtSb","_score":1,"_source":{"nome":"Escova de dentes","supermercado":"Carrefour","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"2cnga4kBtlA6u5f4WtSf","_score":1,"_source":{"nome":"Pasta de dente","supermercado":"Carrefour","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"2snga4kBtlA6u5f4WtSi","_score":1,"_source":{"nome":"Papel higiênico","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"28nga4kBtlA6u5f4WtSl","_score":1,"_source":{"nome":"Sabão em pó","supermercado":"Carrefour","preco":"8.99"}}
+{"_index":"produto","_type":"type_produto","_id":"3Mnga4kBtlA6u5f4WtSp","_score":1,"_source":{"nome":"Amaciante de roupas","supermercado":"Carrefour","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"3cnga4kBtlA6u5f4WtSs","_score":1,"_source":{"nome":"Detergente","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"3snga4kBtlA6u5f4WtSv","_score":1,"_source":{"nome":"Esponja de cozinha","supermercado":"Carrefour","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"38nga4kBtlA6u5f4WtSz","_score":1,"_source":{"nome":"Desodorante","supermercado":"Carrefour","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"4Mnga4kBtlA6u5f4WtS2","_score":1,"_source":{"nome":"Perfume","supermercado":"Carrefour","preco":"34.99"}}
+{"_index":"produto","_type":"type_produto","_id":"4cnga4kBtlA6u5f4WtS5","_score":1,"_source":{"nome":"Talco","supermercado":"Carrefour","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"4snga4kBtlA6u5f4WtS9","_score":1,"_source":{"nome":"Lâmina de barbear","supermercado":"Carrefour","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"48nga4kBtlA6u5f4WtTA","_score":1,"_source":{"nome":"Fio dental","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"5Mnga4kBtlA6u5f4WtTD","_score":1,"_source":{"nome":"Algodão","supermercado":"Carrefour","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"5cnga4kBtlA6u5f4WtTG","_score":1,"_source":{"nome":"Pilhas","supermercado":"Carrefour","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"5snga4kBtlA6u5f4WtTJ","_score":1,"_source":{"nome":"Lâmpadas","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"58nga4kBtlA6u5f4WtTN","_score":1,"_source":{"nome":"Vela","supermercado":"Carrefour","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"6Mnga4kBtlA6u5f4WtTQ","_score":1,"_source":{"nome":"Fósforos","supermercado":"Carrefour","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"6cnga4kBtlA6u5f4WtTT","_score":1,"_source":{"nome":"Enlatados","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"6snga4kBtlA6u5f4WtTW","_score":1,"_source":{"nome":"Salgadinhos","supermercado":"Carrefour","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"68nga4kBtlA6u5f4WtTZ","_score":1,"_source":{"nome":"Pipoca","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"7Mnga4kBtlA6u5f4WtTd","_score":1,"_source":{"nome":"Queijo coalho","supermercado":"Carrefour","preco":"10.49"}}
+{"_index":"produto","_type":"type_produto","_id":"7cnga4kBtlA6u5f4WtTg","_score":1,"_source":{"nome":"Mortadela","supermercado":"Carrefour","preco":"8.99"}}
+{"_index":"produto","_type":"type_produto","_id":"7snga4kBtlA6u5f4WtTk","_score":1,"_source":{"nome":"Salsicha","supermercado":"Carrefour","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"78nga4kBtlA6u5f4WtTn","_score":1,"_source":{"nome":"Linguiça","supermercado":"Carrefour","preco":"7.49"}}
+{"_index":"produto","_type":"type_produto","_id":"8Mnga4kBtlA6u5f4WtTq","_score":1,"_source":{"nome":"Salame","supermercado":"Carrefour","preco":"11.49"}}
+{"_index":"produto","_type":"type_produto","_id":"8cnga4kBtlA6u5f4WtTt","_score":1,"_source":{"nome":"Peito de peru","supermercado":"Carrefour","preco":"12.99"}}
+{"_index":"produto","_type":"type_produto","_id":"8snga4kBtlA6u5f4WtTw","_score":1,"_source":{"nome":"Picanha","supermercado":"Carrefour","preco":"25.99"}}
+{"_index":"produto","_type":"type_produto","_id":"88nga4kBtlA6u5f4WtTz","_score":1,"_source":{"nome":"Filé de peixe","supermercado":"Carrefour","preco":"14.49"}}
+{"_index":"produto","_type":"type_produto","_id":"9Mnga4kBtlA6u5f4WtT2","_score":1,"_source":{"nome":"Atum","supermercado":"Carrefour","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"9cnga4kBtlA6u5f4WtT5","_score":1,"_source":{"nome":"Salmão","supermercado":"Carrefour","preco":"17.99"}}
+{"_index":"produto","_type":"type_produto","_id":"9snga4kBtlA6u5f4WtT8","_score":1,"_source":{"nome":"Camarão","supermercado":"Carrefour","preco":"19.99"}}
+{"_index":"produto","_type":"type_produto","_id":"98nga4kBtlA6u5f4WtT_","_score":1,"_source":{"nome":"Ostras","supermercado":"Carrefour","preco":"22.99"}}
+{"_index":"produto","_type":"type_produto","_id":"-Mnga4kBtlA6u5f4W9QC","_score":1,"_source":{"nome":"Amêndoas","supermercado":"Carrefour","preco":"9.49"}}
+{"_index":"produto","_type":"type_produto","_id":"-cnga4kBtlA6u5f4W9QF","_score":1,"_source":{"nome":"Castanhas","supermercado":"Carrefour","preco":"11.49"}}
+{"_index":"produto","_type":"type_produto","_id":"-snga4kBtlA6u5f4W9QI","_score":1,"_source":{"nome":"Nozes","supermercado":"Carrefour","preco":"10.49"}}
+{"_index":"produto","_type":"type_produto","_id":"-8nga4kBtlA6u5f4W9QM","_score":1,"_source":{"nome":"Pistaches","supermercado":"Carrefour","preco":"15.99"}}
+{"_index":"produto","_type":"type_produto","_id":"_Mnga4kBtlA6u5f4W9QP","_score":1,"_source":{"nome":"Suco em pó","supermercado":"Carrefour","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"_cnga4kBtlA6u5f4W9QS","_score":1,"_source":{"nome":"Chá","supermercado":"Carrefour","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"_snga4kBtlA6u5f4W9QV","_score":1,"_source":{"nome":"Massa de pastel","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"_8nga4kBtlA6u5f4W9QY","_score":1,"_source":{"nome":"Molho de pimenta","supermercado":"Carrefour","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"AMnga4kBtlA6u5f4W9Ub","_score":1,"_source":{"nome":"Batata chips","supermercado":"Carrefour","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Acnga4kBtlA6u5f4W9Ue","_score":1,"_source":{"nome":"Cereais","supermercado":"Carrefour","preco":"8.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Asnga4kBtlA6u5f4W9Uh","_score":1,"_source":{"nome":"Granola","supermercado":"Carrefour","preco":"7.49"}}
+{"_index":"produto","_type":"type_produto","_id":"A8nga4kBtlA6u5f4W9Uk","_score":1,"_source":{"nome":"Barra de cereal","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"BMnga4kBtlA6u5f4W9Un","_score":1,"_source":{"nome":"Geleia de mocotó","supermercado":"Carrefour","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Bcnga4kBtlA6u5f4W9Uq","_score":1,"_source":{"nome":"Feijão preto","supermercado":"Carrefour","preco":"4.79"}}
+{"_index":"produto","_type":"type_produto","_id":"Bsnga4kBtlA6u5f4W9Ut","_score":1,"_source":{"nome":"Feijão carioca","supermercado":"Carrefour","preco":"4.79"}}
+{"_index":"produto","_type":"type_produto","_id":"B8nga4kBtlA6u5f4W9Ux","_score":1,"_source":{"nome":"Milho enlatado","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"CMnga4kBtlA6u5f4W9U0","_score":1,"_source":{"nome":"Ervilha enlatada","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Ccnga4kBtlA6u5f4W9U3","_score":1,"_source":{"nome":"Lentilha enlatada","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Csnga4kBtlA6u5f4W9U6","_score":1,"_source":{"nome":"Amido de milho","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"C8nga4kBtlA6u5f4W9U9","_score":1,"_source":{"nome":"Farinha de mandioca","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"DMnga4kBtlA6u5f4W9VA","_score":1,"_source":{"nome":"Farofa pronta","supermercado":"Carrefour","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Dcnga4kBtlA6u5f4W9VD","_score":1,"_source":{"nome":"Molho shoyu","supermercado":"Carrefour","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Dsnga4kBtlA6u5f4W9VG","_score":1,"_source":{"nome":"Azeite de oliva","supermercado":"Carrefour","preco":"7.99"}}
+{"_index":"produto","_type":"type_produto","_id":"D8nga4kBtlA6u5f4W9VK","_score":1,"_source":{"nome":"Vinagre","supermercado":"Carrefour","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"EMnga4kBtlA6u5f4W9VO","_score":1,"_source":{"nome":"Azeitonas","supermercado":"Carrefour","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ecnga4kBtlA6u5f4W9VR","_score":1,"_source":{"nome":"Palmito","supermercado":"Carrefour","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Esnga4kBtlA6u5f4W9VU","_score":1,"_source":{"nome":"Pepino em conserva","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"E8nga4kBtlA6u5f4W9VX","_score":1,"_source":{"nome":"Abobrinha","supermercado":"Carrefour","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"FMnga4kBtlA6u5f4W9Va","_score":1,"_source":{"nome":"Berinjela","supermercado":"Carrefour","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Fcnga4kBtlA6u5f4W9Vd","_score":1,"_source":{"nome":"Repolho","supermercado":"Carrefour","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Fsnga4kBtlA6u5f4W9Vh","_score":1,"_source":{"nome":"Milho verde","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"F8nga4kBtlA6u5f4W9Vl","_score":1,"_source":{"nome":"Couve-flor","supermercado":"Carrefour","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"GMnga4kBtlA6u5f4W9Vp","_score":1,"_source":{"nome":"Brócolis","supermercado":"Carrefour","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Gcnga4kBtlA6u5f4W9Vt","_score":1,"_source":{"nome":"Alho","supermercado":"Carrefour","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Gsnga4kBtlA6u5f4W9Vw","_score":1,"_source":{"nome":"Salsa","supermercado":"Carrefour","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"G8nga4kBtlA6u5f4W9V0","_score":1,"_source":{"nome":"Hortelã","supermercado":"Carrefour","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"HMnga4kBtlA6u5f4W9V3","_score":1,"_source":{"nome":"Manjericão","supermercado":"Carrefour","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Hcnga4kBtlA6u5f4W9V7","_score":1,"_source":{"nome":"Alecrim","supermercado":"Carrefour","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Hsnga4kBtlA6u5f4W9V-","_score":1,"_source":{"nome":"Salsinha","supermercado":"Carrefour","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"H8nga4kBtlA6u5f4W9WB","_score":1,"_source":{"nome":"Orégano","supermercado":"Carrefour","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"IMnga4kBtlA6u5f4W9WE","_score":1,"_source":{"nome":"Pimenta-do-reino","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Icnga4kBtlA6u5f4W9WI","_score":1,"_source":{"nome":"Pimenta vermelha","supermercado":"Carrefour","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Isnga4kBtlA6u5f4W9WL","_score":1,"_source":{"nome":"Mel","supermercado":"Carrefour","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"I8nga4kBtlA6u5f4W9WO","_score":1,"_source":{"nome":"Chocolate em pó","supermercado":"Carrefour","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"JMnga4kBtlA6u5f4W9WR","_score":1,"_source":{"nome":"Gelatina","supermercado":"Carrefour","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Jcnga4kBtlA6u5f4W9WU","_score":1,"_source":{"nome":"Leite em pó","supermercado":"Carrefour","preco":"7.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Jsnga4kBtlA6u5f4W9WX","_score":1,"_source":{"nome":"Cuscuz","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"J8nga4kBtlA6u5f4W9Wa","_score":1,"_source":{"nome":"Iogurte de frutas","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"KMnga4kBtlA6u5f4W9We","_score":1,"_source":{"nome":"Chantilly","supermercado":"Carrefour","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Kcnga4kBtlA6u5f4W9Wh","_score":1,"_source":{"nome":"Pudim","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Ksnga4kBtlA6u5f4W9Wl","_score":1,"_source":{"nome":"Gelatina em pó","supermercado":"Carrefour","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"K8nga4kBtlA6u5f4W9Wo","_score":1,"_source":{"nome":"Bala","supermercado":"Carrefour","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"LMnga4kBtlA6u5f4W9Wr","_score":1,"_source":{"nome":"Pipoca doce","supermercado":"Carrefour","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Lcnga4kBtlA6u5f4W9Wv","_score":1,"_source":{"nome":"Amendoim","supermercado":"Carrefour","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Lsnga4kBtlA6u5f4W9Wy","_score":1,"_source":{"nome":"Salgadinho de milho","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"L8nga4kBtlA6u5f4W9W1","_score":1,"_source":{"nome":"Salgadinho de queijo","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"MMnga4kBtlA6u5f4W9W4","_score":1,"_source":{"nome":"Salgadinho de cebola","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Mcnga4kBtlA6u5f4W9W7","_score":1,"_source":{"nome":"Salgadinho de churrasco","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Msnga4kBtlA6u5f4W9W-","_score":1,"_source":{"nome":"Salgadinho de bacon","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"M8nga4kBtlA6u5f4W9XB","_score":1,"_source":{"nome":"Salgadinho de pimenta","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"NMnga4kBtlA6u5f4W9XE","_score":1,"_source":{"nome":"Salgadinho de limão","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Ncnga4kBtlA6u5f4W9XI","_score":1,"_source":{"nome":"Salgadinho de salsa","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Nsnga4kBtlA6u5f4W9XL","_score":1,"_source":{"nome":"Salgadinho de alho","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"N8nga4kBtlA6u5f4W9XO","_score":1,"_source":{"nome":"Salgadinho de ervas","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"OMnga4kBtlA6u5f4W9XR","_score":1,"_source":{"nome":"Salgadinho de queijo e cebola","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Ocnga4kBtlA6u5f4W9XU","_score":1,"_source":{"nome":"Salgadinho de presunto e queijo","supermercado":"Carrefour","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Osnga4kBtlA6u5f4W9XZ","_score":1,"_source":{"nome":"Arroz","supermercado":"Epa","preco":"6.59"}}
+{"_index":"produto","_type":"type_produto","_id":"O8nga4kBtlA6u5f4W9Xd","_score":1,"_source":{"nome":"Feijão","supermercado":"Epa","preco":"4.19"}}
+{"_index":"produto","_type":"type_produto","_id":"PMnga4kBtlA6u5f4W9Xg","_score":1,"_source":{"nome":"Macarrão","supermercado":"Epa","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"Pcnga4kBtlA6u5f4W9Xk","_score":1,"_source":{"nome":"Leite","supermercado":"Epa","preco":"5.29"}}
+{"_index":"produto","_type":"type_produto","_id":"Psnga4kBtlA6u5f4W9Xn","_score":1,"_source":{"nome":"Ovos","supermercado":"Epa","preco":"3.09"}}
+{"_index":"produto","_type":"type_produto","_id":"P8nga4kBtlA6u5f4W9Xq","_score":1,"_source":{"nome":"Pão","supermercado":"Epa","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"QMnga4kBtlA6u5f4W9Xt","_score":1,"_source":{"nome":"Manteiga","supermercado":"Epa","preco":"6.79"}}
+{"_index":"produto","_type":"type_produto","_id":"Qcnga4kBtlA6u5f4W9Xw","_score":1,"_source":{"nome":"Queijo","supermercado":"Epa","preco":"9.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Qsnga4kBtlA6u5f4W9X0","_score":1,"_source":{"nome":"Presunto","supermercado":"Epa","preco":"10.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Q8nga4kBtlA6u5f4W9X4","_score":1,"_source":{"nome":"Frango","supermercado":"Epa","preco":"13.79"}}
+{"_index":"produto","_type":"type_produto","_id":"RMnga4kBtlA6u5f4W9X7","_score":1,"_source":{"nome":"Carne moída","supermercado":"Epa","preco":"16.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Rcnga4kBtlA6u5f4W9X-","_score":1,"_source":{"nome":"Alface","supermercado":"Epa","preco":"3.29"}}
+{"_index":"produto","_type":"type_produto","_id":"Rsnga4kBtlA6u5f4XNUB","_score":1,"_source":{"nome":"Tomate","supermercado":"Epa","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"R8nga4kBtlA6u5f4XNUE","_score":1,"_source":{"nome":"Cebola","supermercado":"Epa","preco":"2.69"}}
+{"_index":"produto","_type":"type_produto","_id":"SMnga4kBtlA6u5f4XNUH","_score":1,"_source":{"nome":"Batata","supermercado":"Epa","preco":"3.19"}}
+{"_index":"produto","_type":"type_produto","_id":"Scnga4kBtlA6u5f4XNUK","_score":1,"_source":{"nome":"Cenoura","supermercado":"Epa","preco":"2.39"}}
+{"_index":"produto","_type":"type_produto","_id":"Ssnga4kBtlA6u5f4XNUN","_score":1,"_source":{"nome":"Banana","supermercado":"Epa","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"S8nga4kBtlA6u5f4XNUQ","_score":1,"_source":{"nome":"Maçã","supermercado":"Epa","preco":"4.19"}}
+{"_index":"produto","_type":"type_produto","_id":"TMnga4kBtlA6u5f4XNUT","_score":1,"_source":{"nome":"Laranja","supermercado":"Epa","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Tcnga4kBtlA6u5f4XNUW","_score":1,"_source":{"nome":"Mamão","supermercado":"Epa","preco":"3.59"}}
+{"_index":"produto","_type":"type_produto","_id":"Tsnga4kBtlA6u5f4XNUa","_score":1,"_source":{"nome":"Abacaxi","supermercado":"Epa","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"T8nga4kBtlA6u5f4XNUd","_score":1,"_source":{"nome":"Morango","supermercado":"Epa","preco":"7.59"}}
+{"_index":"produto","_type":"type_produto","_id":"UMnga4kBtlA6u5f4XNUg","_score":1,"_source":{"nome":"Melancia","supermercado":"Epa","preco":"7.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ucnga4kBtlA6u5f4XNUj","_score":1,"_source":{"nome":"Suco de laranja","supermercado":"Epa","preco":"4.79"}}
+{"_index":"produto","_type":"type_produto","_id":"Usnga4kBtlA6u5f4XNUm","_score":1,"_source":{"nome":"Refrigerante","supermercado":"Epa","preco":"5.29"}}
+{"_index":"produto","_type":"type_produto","_id":"U8nga4kBtlA6u5f4XNUq","_score":1,"_source":{"nome":"Água mineral","supermercado":"Epa","preco":"2.19"}}
+{"_index":"produto","_type":"type_produto","_id":"VMnga4kBtlA6u5f4XNUt","_score":1,"_source":{"nome":"Café","supermercado":"Epa","preco":"7.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Vcnga4kBtlA6u5f4XNUw","_score":1,"_source":{"nome":"Açúcar","supermercado":"Epa","preco":"3.19"}}
+{"_index":"produto","_type":"type_produto","_id":"Vsnga4kBtlA6u5f4XNUz","_score":1,"_source":{"nome":"Sal","supermercado":"Epa","preco":"1.59"}}
+{"_index":"produto","_type":"type_produto","_id":"V8nga4kBtlA6u5f4XNU2","_score":1,"_source":{"nome":"Óleo de soja","supermercado":"Epa","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"WMnga4kBtlA6u5f4XNU5","_score":1,"_source":{"nome":"Farinha de trigo","supermercado":"Epa","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"Wcnga4kBtlA6u5f4XNU9","_score":1,"_source":{"nome":"Fermento em pó","supermercado":"Epa","preco":"3.29"}}
+{"_index":"produto","_type":"type_produto","_id":"Wsnga4kBtlA6u5f4XNVA","_score":1,"_source":{"nome":"Biscoitos","supermercado":"Epa","preco":"5.79"}}
+{"_index":"produto","_type":"type_produto","_id":"W8nga4kBtlA6u5f4XNVD","_score":1,"_source":{"nome":"Chocolate","supermercado":"Epa","preco":"7.19"}}
+{"_index":"produto","_type":"type_produto","_id":"XMnga4kBtlA6u5f4XNVN","_score":1,"_source":{"nome":"Sorvete","supermercado":"Epa","preco":"7.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Xcnga4kBtlA6u5f4XNVP","_score":1,"_source":{"nome":"Cerveja","supermercado":"Epa","preco":"4.29"}}
+{"_index":"produto","_type":"type_produto","_id":"Xsnga4kBtlA6u5f4XNVT","_score":1,"_source":{"nome":"Vinho","supermercado":"Epa","preco":"15.99"}}
+{"_index":"produto","_type":"type_produto","_id":"X8nga4kBtlA6u5f4XNVW","_score":1,"_source":{"nome":"Whisky","supermercado":"Epa","preco":"42.99"}}
+{"_index":"produto","_type":"type_produto","_id":"YMnga4kBtlA6u5f4XNVZ","_score":1,"_source":{"nome":"Leite condensado","supermercado":"Epa","preco":"4.29"}}
+{"_index":"produto","_type":"type_produto","_id":"Ycnga4kBtlA6u5f4XNVc","_score":1,"_source":{"nome":"Creme de leite","supermercado":"Epa","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"Ysnga4kBtlA6u5f4XNVg","_score":1,"_source":{"nome":"Achocolatado","supermercado":"Epa","preco":"6.79"}}
+{"_index":"produto","_type":"type_produto","_id":"Y8nga4kBtlA6u5f4XNVi","_score":1,"_source":{"nome":"Iogurte","supermercado":"Epa","preco":"3.29"}}
+{"_index":"produto","_type":"type_produto","_id":"ZMnga4kBtlA6u5f4XNVl","_score":1,"_source":{"nome":"Doce de leite","supermercado":"Epa","preco":"6.79"}}
+{"_index":"produto","_type":"type_produto","_id":"Zcnga4kBtlA6u5f4XNVo","_score":1,"_source":{"nome":"Biscoito recheado","supermercado":"Epa","preco":"5.79"}}
+{"_index":"produto","_type":"type_produto","_id":"Zsnga4kBtlA6u5f4XNVr","_score":1,"_source":{"nome":"Queijo ralado","supermercado":"Epa","preco":"7.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Z8nga4kBtlA6u5f4XNVu","_score":1,"_source":{"nome":"Molho de tomate","supermercado":"Epa","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"aMnga4kBtlA6u5f4XNVy","_score":1,"_source":{"nome":"Maionese","supermercado":"Epa","preco":"5.79"}}
+{"_index":"produto","_type":"type_produto","_id":"acnga4kBtlA6u5f4XNV1","_score":1,"_source":{"nome":"Ketchup","supermercado":"Epa","preco":"3.29"}}
+{"_index":"produto","_type":"type_produto","_id":"asnga4kBtlA6u5f4XNV4","_score":1,"_source":{"nome":"Mostarda","supermercado":"Epa","preco":"3.29"}}
+{"_index":"produto","_type":"type_produto","_id":"a8nga4kBtlA6u5f4XNV7","_score":1,"_source":{"nome":"Catchup","supermercado":"Epa","preco":"3.29"}}
+{"_index":"produto","_type":"type_produto","_id":"bMnga4kBtlA6u5f4XNV_","_score":1,"_source":{"nome":"Geléia","supermercado":"Epa","preco":"5.79"}}
+{"_index":"produto","_type":"type_produto","_id":"bcnga4kBtlA6u5f4XNWD","_score":1,"_source":{"nome":"Margarina","supermercado":"Epa","preco":"3.29"}}
+{"_index":"produto","_type":"type_produto","_id":"bsnga4kBtlA6u5f4XNWG","_score":1,"_source":{"nome":"Sabonete","supermercado":"Epa","preco":"2.59"}}
+{"_index":"produto","_type":"type_produto","_id":"b8nga4kBtlA6u5f4XNWJ","_score":1,"_source":{"nome":"Shampoo","supermercado":"Epa","preco":"6.59"}}
+{"_index":"produto","_type":"type_produto","_id":"cMnga4kBtlA6u5f4XNWM","_score":1,"_source":{"nome":"Condicionador","supermercado":"Epa","preco":"6.59"}}
+{"_index":"produto","_type":"type_produto","_id":"ccnga4kBtlA6u5f4XNWQ","_score":1,"_source":{"nome":"Escova de dentes","supermercado":"Epa","preco":"4.19"}}
+{"_index":"produto","_type":"type_produto","_id":"csnga4kBtlA6u5f4XNWT","_score":1,"_source":{"nome":"Pasta de dente","supermercado":"Epa","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"c8nga4kBtlA6u5f4XNWX","_score":1,"_source":{"nome":"Papel higiênico","supermercado":"Epa","preco":"5.79"}}
+{"_index":"produto","_type":"type_produto","_id":"dMnga4kBtlA6u5f4XNWa","_score":1,"_source":{"nome":"Sabão em pó","supermercado":"Epa","preco":"7.49"}}
+{"_index":"produto","_type":"type_produto","_id":"dcnga4kBtlA6u5f4XNWd","_score":1,"_source":{"nome":"Amaciante de roupas","supermercado":"Epa","preco":"6.79"}}
+{"_index":"produto","_type":"type_produto","_id":"dsnga4kBtlA6u5f4XNWg","_score":1,"_source":{"nome":"Detergente","supermercado":"Epa","preco":"3.29"}}
+{"_index":"produto","_type":"type_produto","_id":"d8nga4kBtlA6u5f4XNWj","_score":1,"_source":{"nome":"Esponja de cozinha","supermercado":"Epa","preco":"2.59"}}
+{"_index":"produto","_type":"type_produto","_id":"eMnga4kBtlA6u5f4XNWl","_score":1,"_source":{"nome":"Desodorante","supermercado":"Epa","preco":"6.79"}}
+{"_index":"produto","_type":"type_produto","_id":"ecnga4kBtlA6u5f4XNWo","_score":1,"_source":{"nome":"Perfume","supermercado":"Epa","preco":"36.99"}}
+{"_index":"produto","_type":"type_produto","_id":"esnga4kBtlA6u5f4XNWr","_score":1,"_source":{"nome":"Talco","supermercado":"Epa","preco":"4.19"}}
+{"_index":"produto","_type":"type_produto","_id":"e8nga4kBtlA6u5f4XNWv","_score":1,"_source":{"nome":"Lâmina de barbear","supermercado":"Epa","preco":"6.79"}}
+{"_index":"produto","_type":"type_produto","_id":"fMnga4kBtlA6u5f4XNWx","_score":1,"_source":{"nome":"Fio dental","supermercado":"Epa","preco":"3.29"}}
+{"_index":"produto","_type":"type_produto","_id":"fcnga4kBtlA6u5f4XNW1","_score":1,"_source":{"nome":"Algodão","supermercado":"Epa","preco":"2.59"}}
+{"_index":"produto","_type":"type_produto","_id":"fsnga4kBtlA6u5f4XNW4","_score":1,"_source":{"nome":"Pilhas","supermercado":"Epa","preco":"4.79"}}
+{"_index":"produto","_type":"type_produto","_id":"f8nga4kBtlA6u5f4XNW6","_score":1,"_source":{"nome":"Lâmpadas","supermercado":"Epa","preco":"5.29"}}
+{"_index":"produto","_type":"type_produto","_id":"gMnga4kBtlA6u5f4XNW-","_score":1,"_source":{"nome":"Vela","supermercado":"Epa","preco":"2.19"}}
+{"_index":"produto","_type":"type_produto","_id":"gcnga4kBtlA6u5f4XNXA","_score":1,"_source":{"nome":"Fósforos","supermercado":"Epa","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"gsnga4kBtlA6u5f4XNXD","_score":1,"_source":{"nome":"Enlatados","supermercado":"Epa","preco":"5.79"}}
+{"_index":"produto","_type":"type_produto","_id":"g8nga4kBtlA6u5f4XNXG","_score":1,"_source":{"nome":"Salgadinhos","supermercado":"Epa","preco":"6.79"}}
+{"_index":"produto","_type":"type_produto","_id":"hMnga4kBtlA6u5f4XNXJ","_score":1,"_source":{"nome":"Pipoca","supermercado":"Epa","preco":"3.29"}}
+{"_index":"produto","_type":"type_produto","_id":"hcnga4kBtlA6u5f4XNXM","_score":1,"_source":{"nome":"Queijo coalho","supermercado":"Epa","preco":"11.49"}}
+{"_index":"produto","_type":"type_produto","_id":"hsnga4kBtlA6u5f4XNXP","_score":1,"_source":{"nome":"Mortadela","supermercado":"Epa","preco":"9.49"}}
+{"_index":"produto","_type":"type_produto","_id":"h8nga4kBtlA6u5f4XNXS","_score":1,"_source":{"nome":"Salsicha","supermercado":"Epa","preco":"6.79"}}
+{"_index":"produto","_type":"type_produto","_id":"iMnga4kBtlA6u5f4XNXV","_score":1,"_source":{"nome":"Linguiça","supermercado":"Epa","preco":"7.79"}}
+{"_index":"produto","_type":"type_produto","_id":"icnga4kBtlA6u5f4XNXY","_score":1,"_source":{"nome":"Salame","supermercado":"Epa","preco":"12.99"}}
+{"_index":"produto","_type":"type_produto","_id":"isnga4kBtlA6u5f4XNXb","_score":1,"_source":{"nome":"Peito de peru","supermercado":"Epa","preco":"13.99"}}
+{"_index":"produto","_type":"type_produto","_id":"i8nga4kBtlA6u5f4XNXe","_score":1,"_source":{"nome":"Picanha","supermercado":"Epa","preco":"27.99"}}
+{"_index":"produto","_type":"type_produto","_id":"jMnga4kBtlA6u5f4XNXh","_score":1,"_source":{"nome":"Filé de peixe","supermercado":"Epa","preco":"15.99"}}
+{"_index":"produto","_type":"type_produto","_id":"jcnga4kBtlA6u5f4XNXk","_score":1,"_source":{"nome":"Atum","supermercado":"Epa","preco":"7.59"}}
+{"_index":"produto","_type":"type_produto","_id":"jsnga4kBtlA6u5f4XNXn","_score":1,"_source":{"nome":"Salmão","supermercado":"Epa","preco":"19.99"}}
+{"_index":"produto","_type":"type_produto","_id":"j8nga4kBtlA6u5f4XNXq","_score":1,"_source":{"nome":"Camarão","supermercado":"Epa","preco":"21.99"}}
+{"_index":"produto","_type":"type_produto","_id":"kMnga4kBtlA6u5f4XNXt","_score":1,"_source":{"nome":"Ostras","supermercado":"Epa","preco":"24.99"}}
+{"_index":"produto","_type":"type_produto","_id":"kcnga4kBtlA6u5f4XNXw","_score":1,"_source":{"nome":"Amêndoas","supermercado":"Epa","preco":"8.99"}}
+{"_index":"produto","_type":"type_produto","_id":"ksnga4kBtlA6u5f4XNXz","_score":1,"_source":{"nome":"Castanhas","supermercado":"Epa","preco":"10.99"}}
+{"_index":"produto","_type":"type_produto","_id":"k8nga4kBtlA6u5f4XNX1","_score":1,"_source":{"nome":"Nozes","supermercado":"Epa","preco":"9.99"}}
+{"_index":"produto","_type":"type_produto","_id":"lMnga4kBtlA6u5f4XNX4","_score":1,"_source":{"nome":"Pistaches","supermercado":"Epa","preco":"14.99"}}
+{"_index":"produto","_type":"type_produto","_id":"lcnga4kBtlA6u5f4XNX7","_score":1,"_source":{"nome":"Suco em pó","supermercado":"Epa","preco":"2.59"}}
+{"_index":"produto","_type":"type_produto","_id":"lsnga4kBtlA6u5f4XNX-","_score":1,"_source":{"nome":"Chá","supermercado":"Epa","preco":"5.79"}}
+{"_index":"produto","_type":"type_produto","_id":"l8nga4kBtlA6u5f4XdUB","_score":1,"_source":{"nome":"Massa de pastel","supermercado":"Epa","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"mMnga4kBtlA6u5f4XdUE","_score":1,"_source":{"nome":"Molho de pimenta","supermercado":"Epa","preco":"3.29"}}
+{"_index":"produto","_type":"type_produto","_id":"mcnga4kBtlA6u5f4XdUH","_score":1,"_source":{"nome":"Batata chips","supermercado":"Epa","preco":"6.79"}}
+{"_index":"produto","_type":"type_produto","_id":"msnga4kBtlA6u5f4XdUK","_score":1,"_source":{"nome":"Cereais","supermercado":"Epa","preco":"8.79"}}
+{"_index":"produto","_type":"type_produto","_id":"m8nga4kBtlA6u5f4XdUN","_score":1,"_source":{"nome":"Granola","supermercado":"Epa","preco":"6.79"}}
+{"_index":"produto","_type":"type_produto","_id":"nMnga4kBtlA6u5f4XdUQ","_score":1,"_source":{"nome":"Barra de cereal","supermercado":"Epa","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"ncnga4kBtlA6u5f4XdUT","_score":1,"_source":{"nome":"Geleia de mocotó","supermercado":"Epa","preco":"4.79"}}
+{"_index":"produto","_type":"type_produto","_id":"nsnga4kBtlA6u5f4XdUW","_score":1,"_source":{"nome":"Feijão preto","supermercado":"Epa","preco":"4.19"}}
+{"_index":"produto","_type":"type_produto","_id":"n8nga4kBtlA6u5f4XdUZ","_score":1,"_source":{"nome":"Feijão carioca","supermercado":"Epa","preco":"4.19"}}
+{"_index":"produto","_type":"type_produto","_id":"oMnga4kBtlA6u5f4XdUc","_score":1,"_source":{"nome":"Milho enlatado","supermercado":"Epa","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"ocnga4kBtlA6u5f4XdUf","_score":1,"_source":{"nome":"Ervilha enlatada","supermercado":"Epa","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"osnga4kBtlA6u5f4XdUh","_score":1,"_source":{"nome":"Lentilha enlatada","supermercado":"Epa","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"o8nga4kBtlA6u5f4XdUk","_score":1,"_source":{"nome":"Amido de milho","supermercado":"Epa","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"pMnga4kBtlA6u5f4XdUn","_score":1,"_source":{"nome":"Farinha de mandioca","supermercado":"Epa","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"pcnga4kBtlA6u5f4XdUq","_score":1,"_source":{"nome":"Farofa pronta","supermercado":"Epa","preco":"4.79"}}
+{"_index":"produto","_type":"type_produto","_id":"psnga4kBtlA6u5f4XdUt","_score":1,"_source":{"nome":"Molho shoyu","supermercado":"Epa","preco":"4.19"}}
+{"_index":"produto","_type":"type_produto","_id":"p8nga4kBtlA6u5f4XdUw","_score":1,"_source":{"nome":"Azeite de oliva","supermercado":"Epa","preco":"7.49"}}
+{"_index":"produto","_type":"type_produto","_id":"qMnga4kBtlA6u5f4XdUz","_score":1,"_source":{"nome":"Vinagre","supermercado":"Epa","preco":"2.59"}}
+{"_index":"produto","_type":"type_produto","_id":"qcnga4kBtlA6u5f4XdU2","_score":1,"_source":{"nome":"Azeitonas","supermercado":"Epa","preco":"4.79"}}
+{"_index":"produto","_type":"type_produto","_id":"qsnga4kBtlA6u5f4XdU4","_score":1,"_source":{"nome":"Palmito","supermercado":"Epa","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"q8nga4kBtlA6u5f4XdU7","_score":1,"_source":{"nome":"Pepino em conserva","supermercado":"Epa","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"rMnga4kBtlA6u5f4XdU-","_score":1,"_source":{"nome":"Abobrinha","supermercado":"Epa","preco":"2.59"}}
+{"_index":"produto","_type":"type_produto","_id":"rcnga4kBtlA6u5f4XdVB","_score":1,"_source":{"nome":"Berinjela","supermercado":"Epa","preco":"3.09"}}
+{"_index":"produto","_type":"type_produto","_id":"rsnga4kBtlA6u5f4XdVE","_score":1,"_source":{"nome":"Repolho","supermercado":"Epa","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"r8nga4kBtlA6u5f4XdVH","_score":1,"_source":{"nome":"Milho verde","supermercado":"Epa","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"sMnga4kBtlA6u5f4XdVK","_score":1,"_source":{"nome":"Couve-flor","supermercado":"Epa","preco":"4.79"}}
+{"_index":"produto","_type":"type_produto","_id":"scnga4kBtlA6u5f4XdVN","_score":1,"_source":{"nome":"Brócolis","supermercado":"Epa","preco":"4.79"}}
+{"_index":"produto","_type":"type_produto","_id":"ssnga4kBtlA6u5f4XdVQ","_score":1,"_source":{"nome":"Alho","supermercado":"Epa","preco":"2.59"}}
+{"_index":"produto","_type":"type_produto","_id":"s8nga4kBtlA6u5f4XdVT","_score":1,"_source":{"nome":"Salsa","supermercado":"Epa","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"tMnga4kBtlA6u5f4XdVX","_score":1,"_source":{"nome":"Hortelã","supermercado":"Epa","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"tcnga4kBtlA6u5f4XdVZ","_score":1,"_source":{"nome":"Manjericão","supermercado":"Epa","preco":"2.59"}}
+{"_index":"produto","_type":"type_produto","_id":"tsnga4kBtlA6u5f4XdVc","_score":1,"_source":{"nome":"Alecrim","supermercado":"Epa","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"t8nga4kBtlA6u5f4XdVf","_score":1,"_source":{"nome":"Salsinha","supermercado":"Epa","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"uMnga4kBtlA6u5f4XdVi","_score":1,"_source":{"nome":"Orégano","supermercado":"Epa","preco":"2.59"}}
+{"_index":"produto","_type":"type_produto","_id":"ucnga4kBtlA6u5f4XdVl","_score":1,"_source":{"nome":"Pimenta-do-reino","supermercado":"Epa","preco":"3.29"}}
+{"_index":"produto","_type":"type_produto","_id":"usnga4kBtlA6u5f4XdVo","_score":1,"_source":{"nome":"Pimenta vermelha","supermercado":"Epa","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"u8nga4kBtlA6u5f4XdVs","_score":1,"_source":{"nome":"Mel","supermercado":"Epa","preco":"6.79"}}
+{"_index":"produto","_type":"type_produto","_id":"vMnga4kBtlA6u5f4XdVv","_score":1,"_source":{"nome":"Chocolate em pó","supermercado":"Epa","preco":"4.79"}}
+{"_index":"produto","_type":"type_produto","_id":"vcnga4kBtlA6u5f4XdVy","_score":1,"_source":{"nome":"Gelatina","supermercado":"Epa","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"vsnga4kBtlA6u5f4XdV1","_score":1,"_source":{"nome":"Leite em pó","supermercado":"Epa","preco":"6.59"}}
+{"_index":"produto","_type":"type_produto","_id":"v8nga4kBtlA6u5f4XdV4","_score":1,"_source":{"nome":"Cuscuz","supermercado":"Epa","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"wMnga4kBtlA6u5f4XdV7","_score":1,"_source":{"nome":"Iogurte de frutas","supermercado":"Epa","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"wcnga4kBtlA6u5f4XdV9","_score":1,"_source":{"nome":"Chantilly","supermercado":"Epa","preco":"4.19"}}
+{"_index":"produto","_type":"type_produto","_id":"wsnga4kBtlA6u5f4XdWA","_score":1,"_source":{"nome":"Pudim","supermercado":"Epa","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"w8nga4kBtlA6u5f4XdWD","_score":1,"_source":{"nome":"Gelatina em pó","supermercado":"Epa","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"xMnga4kBtlA6u5f4XdWG","_score":1,"_source":{"nome":"Bala","supermercado":"Epa","preco":"0.89"}}
+{"_index":"produto","_type":"type_produto","_id":"xcnga4kBtlA6u5f4XdWJ","_score":1,"_source":{"nome":"Pipoca doce","supermercado":"Epa","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"xsnga4kBtlA6u5f4XdWN","_score":1,"_source":{"nome":"Amendoim","supermercado":"Epa","preco":"2.59"}}
+{"_index":"produto","_type":"type_produto","_id":"x8nga4kBtlA6u5f4XdWP","_score":1,"_source":{"nome":"Salgadinho de milho","supermercado":"Epa","preco":"5.79"}}
+{"_index":"produto","_type":"type_produto","_id":"yMnga4kBtlA6u5f4XdWS","_score":1,"_source":{"nome":"Salgadinho de queijo","supermercado":"Epa","preco":"5.79"}}
+{"_index":"produto","_type":"type_produto","_id":"ycnga4kBtlA6u5f4XdWV","_score":1,"_source":{"nome":"Salgadinho de cebola","supermercado":"Epa","preco":"5.79"}}
+{"_index":"produto","_type":"type_produto","_id":"ysnga4kBtlA6u5f4XdWY","_score":1,"_source":{"nome":"Salgadinho de churrasco","supermercado":"Epa","preco":"5.79"}}
+{"_index":"produto","_type":"type_produto","_id":"y8nga4kBtlA6u5f4XdWb","_score":1,"_source":{"nome":"Salgadinho de bacon","supermercado":"Epa","preco":"5.79"}}
+{"_index":"produto","_type":"type_produto","_id":"zMnga4kBtlA6u5f4XdWd","_score":1,"_source":{"nome":"Salgadinho de pimenta","supermercado":"Epa","preco":"5.79"}}
+{"_index":"produto","_type":"type_produto","_id":"zcnga4kBtlA6u5f4XdWh","_score":1,"_source":{"nome":"Salgadinho de limão","supermercado":"Epa","preco":"5.79"}}
+{"_index":"produto","_type":"type_produto","_id":"zsnga4kBtlA6u5f4XdWk","_score":1,"_source":{"nome":"Salgadinho de salsa","supermercado":"Epa","preco":"5.79"}}
+{"_index":"produto","_type":"type_produto","_id":"z8nga4kBtlA6u5f4XdWn","_score":1,"_source":{"nome":"Salgadinho de alho","supermercado":"Epa","preco":"5.79"}}
+{"_index":"produto","_type":"type_produto","_id":"0Mnga4kBtlA6u5f4XdWq","_score":1,"_source":{"nome":"Salgadinho de ervas","supermercado":"Epa","preco":"5.79"}}
+{"_index":"produto","_type":"type_produto","_id":"0cnga4kBtlA6u5f4XdWs","_score":1,"_source":{"nome":"Salgadinho de queijo e cebola","supermercado":"Epa","preco":"5.79"}}
+{"_index":"produto","_type":"type_produto","_id":"0snga4kBtlA6u5f4XdWw","_score":1,"_source":{"nome":"Salgadinho de presunto e queijo","supermercado":"Epa","preco":"5.79"}}
+{"_index":"produto","_type":"type_produto","_id":"08nga4kBtlA6u5f4XdWy","_score":1,"_source":{"nome":"Arroz","supermercado":"Hyper","preco":"8.99"}}
+{"_index":"produto","_type":"type_produto","_id":"1Mnga4kBtlA6u5f4XdW1","_score":1,"_source":{"nome":"Feijão","supermercado":"Hyper","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"1cnga4kBtlA6u5f4XdW4","_score":1,"_source":{"nome":"Macarrão","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"1snga4kBtlA6u5f4XdW7","_score":1,"_source":{"nome":"Leite","supermercado":"Hyper","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"18nga4kBtlA6u5f4XdW9","_score":1,"_source":{"nome":"Ovos","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"2Mnga4kBtlA6u5f4XdXA","_score":1,"_source":{"nome":"Pão","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"2cnga4kBtlA6u5f4XdXE","_score":1,"_source":{"nome":"Manteiga","supermercado":"Hyper","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"2snga4kBtlA6u5f4XdXH","_score":1,"_source":{"nome":"Queijo","supermercado":"Hyper","preco":"10.99"}}
+{"_index":"produto","_type":"type_produto","_id":"28nga4kBtlA6u5f4XdXK","_score":1,"_source":{"nome":"Presunto","supermercado":"Hyper","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"3Mnga4kBtlA6u5f4XdXN","_score":1,"_source":{"nome":"Frango","supermercado":"Hyper","preco":"9.99"}}
+{"_index":"produto","_type":"type_produto","_id":"3cnga4kBtlA6u5f4XdXP","_score":1,"_source":{"nome":"Carne moída","supermercado":"Hyper","preco":"14.99"}}
+{"_index":"produto","_type":"type_produto","_id":"3snga4kBtlA6u5f4XdXT","_score":1,"_source":{"nome":"Alface","supermercado":"Hyper","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"38nga4kBtlA6u5f4XdXV","_score":1,"_source":{"nome":"Tomate","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"4Mnga4kBtlA6u5f4XdXY","_score":1,"_source":{"nome":"Cebola","supermercado":"Hyper","preco":"1.29"}}
+{"_index":"produto","_type":"type_produto","_id":"4cnga4kBtlA6u5f4XdXb","_score":1,"_source":{"nome":"Batata","supermercado":"Hyper","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"4snga4kBtlA6u5f4XdXe","_score":1,"_source":{"nome":"Cenoura","supermercado":"Hyper","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"48nga4kBtlA6u5f4XdXh","_score":1,"_source":{"nome":"Banana","supermercado":"Hyper","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"5Mnga4kBtlA6u5f4XdXk","_score":1,"_source":{"nome":"Maçã","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"5cnga4kBtlA6u5f4XdXn","_score":1,"_source":{"nome":"Laranja","supermercado":"Hyper","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"5snga4kBtlA6u5f4XdXp","_score":1,"_source":{"nome":"Mamão","supermercado":"Hyper","preco":"2.29"}}
+{"_index":"produto","_type":"type_produto","_id":"58nga4kBtlA6u5f4XdXs","_score":1,"_source":{"nome":"Abacaxi","supermercado":"Hyper","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"6Mnga4kBtlA6u5f4XdXv","_score":1,"_source":{"nome":"Morango","supermercado":"Hyper","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"6cnga4kBtlA6u5f4XdXy","_score":1,"_source":{"nome":"Melancia","supermercado":"Hyper","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"6snga4kBtlA6u5f4XdX1","_score":1,"_source":{"nome":"Suco de laranja","supermercado":"Hyper","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"68nga4kBtlA6u5f4XdX4","_score":1,"_source":{"nome":"Refrigerante","supermercado":"Hyper","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"7Mnga4kBtlA6u5f4XdX7","_score":1,"_source":{"nome":"Água mineral","supermercado":"Hyper","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"7cnga4kBtlA6u5f4XdX-","_score":1,"_source":{"nome":"Café","supermercado":"Hyper","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"7snga4kBtlA6u5f4XtUB","_score":1,"_source":{"nome":"Açúcar","supermercado":"Hyper","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"78nga4kBtlA6u5f4XtUE","_score":1,"_source":{"nome":"Sal","supermercado":"Hyper","preco":"1.29"}}
+{"_index":"produto","_type":"type_produto","_id":"8Mnga4kBtlA6u5f4XtUH","_score":1,"_source":{"nome":"Óleo de soja","supermercado":"Hyper","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"8cnga4kBtlA6u5f4XtUK","_score":1,"_source":{"nome":"Farinha de trigo","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"8snga4kBtlA6u5f4XtUM","_score":1,"_source":{"nome":"Fermento em pó","supermercado":"Hyper","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"88nga4kBtlA6u5f4XtUP","_score":1,"_source":{"nome":"Biscoitos","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"9Mnga4kBtlA6u5f4XtUS","_score":1,"_source":{"nome":"Chocolate","supermercado":"Hyper","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"9cnga4kBtlA6u5f4XtUV","_score":1,"_source":{"nome":"Sorvete","supermercado":"Hyper","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"9snga4kBtlA6u5f4XtUX","_score":1,"_source":{"nome":"Cerveja","supermercado":"Hyper","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"98nga4kBtlA6u5f4XtUa","_score":1,"_source":{"nome":"Vinho","supermercado":"Hyper","preco":"12.99"}}
+{"_index":"produto","_type":"type_produto","_id":"-Mnga4kBtlA6u5f4XtUd","_score":1,"_source":{"nome":"Whisky","supermercado":"Hyper","preco":"39.99"}}
+{"_index":"produto","_type":"type_produto","_id":"-cnga4kBtlA6u5f4XtUg","_score":1,"_source":{"nome":"Leite condensado","supermercado":"Hyper","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"-snga4kBtlA6u5f4XtUj","_score":1,"_source":{"nome":"Creme de leite","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"-8nga4kBtlA6u5f4XtUm","_score":1,"_source":{"nome":"Achocolatado","supermercado":"Hyper","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"_Mnga4kBtlA6u5f4XtUp","_score":1,"_source":{"nome":"Iogurte","supermercado":"Hyper","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"_cnga4kBtlA6u5f4XtUr","_score":1,"_source":{"nome":"Doce de leite","supermercado":"Hyper","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"_snga4kBtlA6u5f4XtUu","_score":1,"_source":{"nome":"Biscoito recheado","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"_8nga4kBtlA6u5f4XtUx","_score":1,"_source":{"nome":"Queijo ralado","supermercado":"Hyper","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"AMnga4kBtlA6u5f4XtY0","_score":1,"_source":{"nome":"Molho de tomate","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Acnga4kBtlA6u5f4XtY2","_score":1,"_source":{"nome":"Maionese","supermercado":"Hyper","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Asnga4kBtlA6u5f4XtY5","_score":1,"_source":{"nome":"Ketchup","supermercado":"Hyper","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"A8nga4kBtlA6u5f4XtY8","_score":1,"_source":{"nome":"Mostarda","supermercado":"Hyper","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"BMnga4kBtlA6u5f4XtY_","_score":1,"_source":{"nome":"Catchup","supermercado":"Hyper","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Bcnga4kBtlA6u5f4XtZC","_score":1,"_source":{"nome":"Geléia","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Bsnga4kBtlA6u5f4XtZF","_score":1,"_source":{"nome":"Margarina","supermercado":"Hyper","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"B8nga4kBtlA6u5f4XtZI","_score":1,"_source":{"nome":"Sabonete","supermercado":"Hyper","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"CMnga4kBtlA6u5f4XtZL","_score":1,"_source":{"nome":"Shampoo","supermercado":"Hyper","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ccnga4kBtlA6u5f4XtZN","_score":1,"_source":{"nome":"Condicionador","supermercado":"Hyper","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Csnga4kBtlA6u5f4XtZQ","_score":1,"_source":{"nome":"Escova de dentes","supermercado":"Hyper","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"C8nga4kBtlA6u5f4XtZT","_score":1,"_source":{"nome":"Pasta de dente","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"DMnga4kBtlA6u5f4XtZW","_score":1,"_source":{"nome":"Papel higiênico","supermercado":"Hyper","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Dcnga4kBtlA6u5f4XtZZ","_score":1,"_source":{"nome":"Sabão em pó","supermercado":"Hyper","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Dsnga4kBtlA6u5f4XtZc","_score":1,"_source":{"nome":"Amaciante de roupas","supermercado":"Hyper","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"D8nga4kBtlA6u5f4XtZe","_score":1,"_source":{"nome":"Detergente","supermercado":"Hyper","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"EMnga4kBtlA6u5f4XtZh","_score":1,"_source":{"nome":"Esponja de cozinha","supermercado":"Hyper","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ecnga4kBtlA6u5f4XtZk","_score":1,"_source":{"nome":"Desodorante","supermercado":"Hyper","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Esnga4kBtlA6u5f4XtZn","_score":1,"_source":{"nome":"Perfume","supermercado":"Hyper","preco":"29.99"}}
+{"_index":"produto","_type":"type_produto","_id":"E8nga4kBtlA6u5f4XtZq","_score":1,"_source":{"nome":"Talco","supermercado":"Hyper","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"FMnga4kBtlA6u5f4XtZs","_score":1,"_source":{"nome":"Lâmina de barbear","supermercado":"Hyper","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Fcnga4kBtlA6u5f4XtZv","_score":1,"_source":{"nome":"Fio dental","supermercado":"Hyper","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Fsnga4kBtlA6u5f4XtZy","_score":1,"_source":{"nome":"Algodão","supermercado":"Hyper","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"F8nga4kBtlA6u5f4XtZ1","_score":1,"_source":{"nome":"Pilhas","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"GMnga4kBtlA6u5f4XtZ4","_score":1,"_source":{"nome":"Lâmpadas","supermercado":"Hyper","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Gcnga4kBtlA6u5f4XtZ7","_score":1,"_source":{"nome":"Vela","supermercado":"Hyper","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Gsnga4kBtlA6u5f4XtZ-","_score":1,"_source":{"nome":"Fósforos","supermercado":"Hyper","preco":"1.29"}}
+{"_index":"produto","_type":"type_produto","_id":"G8nga4kBtlA6u5f4XtaA","_score":1,"_source":{"nome":"Enlatados","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"HMnga4kBtlA6u5f4XtaD","_score":1,"_source":{"nome":"Salgadinhos","supermercado":"Hyper","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Hcnga4kBtlA6u5f4XtaG","_score":1,"_source":{"nome":"Pipoca","supermercado":"Hyper","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Hsnga4kBtlA6u5f4XtaJ","_score":1,"_source":{"nome":"Queijo coalho","supermercado":"Hyper","preco":"7.99"}}
+{"_index":"produto","_type":"type_produto","_id":"H8nga4kBtlA6u5f4XtaM","_score":1,"_source":{"nome":"Mortadela","supermercado":"Hyper","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"IMnga4kBtlA6u5f4XtaP","_score":1,"_source":{"nome":"Salsicha","supermercado":"Hyper","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Icnga4kBtlA6u5f4XtaS","_score":1,"_source":{"nome":"Linguiça","supermercado":"Hyper","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Isnga4kBtlA6u5f4XtaV","_score":1,"_source":{"nome":"Salame","supermercado":"Hyper","preco":"8.99"}}
+{"_index":"produto","_type":"type_produto","_id":"I8nga4kBtlA6u5f4XtaY","_score":1,"_source":{"nome":"Peito de peru","supermercado":"Hyper","preco":"9.99"}}
+{"_index":"produto","_type":"type_produto","_id":"JMnga4kBtlA6u5f4Xtab","_score":1,"_source":{"nome":"Picanha","supermercado":"Hyper","preco":"19.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Jcnga4kBtlA6u5f4Xtae","_score":1,"_source":{"nome":"Filé de peixe","supermercado":"Hyper","preco":"11.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Jsnga4kBtlA6u5f4Xtag","_score":1,"_source":{"nome":"Atum","supermercado":"Hyper","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"J8nga4kBtlA6u5f4Xtaj","_score":1,"_source":{"nome":"Salmão","supermercado":"Hyper","preco":"14.99"}}
+{"_index":"produto","_type":"type_produto","_id":"KMnga4kBtlA6u5f4Xtam","_score":1,"_source":{"nome":"Camarão","supermercado":"Hyper","preco":"16.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Kcnga4kBtlA6u5f4Xtap","_score":1,"_source":{"nome":"Ostras","supermercado":"Hyper","preco":"19.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ksnga4kBtlA6u5f4Xtar","_score":1,"_source":{"nome":"Amêndoas","supermercado":"Hyper","preco":"7.99"}}
+{"_index":"produto","_type":"type_produto","_id":"K8nga4kBtlA6u5f4Xtau","_score":1,"_source":{"nome":"Castanhas","supermercado":"Hyper","preco":"9.99"}}
+{"_index":"produto","_type":"type_produto","_id":"LMnga4kBtlA6u5f4Xtax","_score":1,"_source":{"nome":"Nozes","supermercado":"Hyper","preco":"8.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Lcnga4kBtlA6u5f4Xta0","_score":1,"_source":{"nome":"Pistaches","supermercado":"Hyper","preco":"12.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Lsnga4kBtlA6u5f4Xta3","_score":1,"_source":{"nome":"Suco em pó","supermercado":"Hyper","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"L8nga4kBtlA6u5f4Xta7","_score":1,"_source":{"nome":"Chá","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"MMnga4kBtlA6u5f4Xta9","_score":1,"_source":{"nome":"Massa de pastel","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Mcnga4kBtlA6u5f4XtbA","_score":1,"_source":{"nome":"Molho de pimenta","supermercado":"Hyper","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Msnga4kBtlA6u5f4XtbD","_score":1,"_source":{"nome":"Batata chips","supermercado":"Hyper","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"M8nga4kBtlA6u5f4XtbG","_score":1,"_source":{"nome":"Cereais","supermercado":"Hyper","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"NMnga4kBtlA6u5f4XtbI","_score":1,"_source":{"nome":"Granola","supermercado":"Hyper","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ncnga4kBtlA6u5f4XtbL","_score":1,"_source":{"nome":"Barra de cereal","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Nsnga4kBtlA6u5f4XtbO","_score":1,"_source":{"nome":"Geleia de mocotó","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"N8nga4kBtlA6u5f4XtbQ","_score":1,"_source":{"nome":"Feijão preto","supermercado":"Hyper","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"OMnga4kBtlA6u5f4XtbT","_score":1,"_source":{"nome":"Feijão carioca","supermercado":"Hyper","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Ocnga4kBtlA6u5f4XtbW","_score":1,"_source":{"nome":"Milho enlatado","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Osnga4kBtlA6u5f4XtbZ","_score":1,"_source":{"nome":"Ervilha enlatada","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"O8nga4kBtlA6u5f4Xtbc","_score":1,"_source":{"nome":"Lentilha enlatada","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"PMnga4kBtlA6u5f4Xtbf","_score":1,"_source":{"nome":"Amido de milho","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Pcnga4kBtlA6u5f4Xtbh","_score":1,"_source":{"nome":"Farinha de mandioca","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Psnga4kBtlA6u5f4Xtbk","_score":1,"_source":{"nome":"Farofa pronta","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"P8nga4kBtlA6u5f4Xtbn","_score":1,"_source":{"nome":"Molho shoyu","supermercado":"Hyper","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"QMnga4kBtlA6u5f4Xtbp","_score":1,"_source":{"nome":"Azeite de oliva","supermercado":"Hyper","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Qcnga4kBtlA6u5f4Xtbs","_score":1,"_source":{"nome":"Vinagre","supermercado":"Hyper","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Qsnga4kBtlA6u5f4Xtbv","_score":1,"_source":{"nome":"Azeitonas","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Q8nga4kBtlA6u5f4Xtby","_score":1,"_source":{"nome":"Palmito","supermercado":"Hyper","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"RMnga4kBtlA6u5f4Xtb1","_score":1,"_source":{"nome":"Pepino em conserva","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Rcnga4kBtlA6u5f4Xtb4","_score":1,"_source":{"nome":"Abobrinha","supermercado":"Hyper","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Rsnga4kBtlA6u5f4Xtb7","_score":1,"_source":{"nome":"Berinjela","supermercado":"Hyper","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"R8nga4kBtlA6u5f4Xtb9","_score":1,"_source":{"nome":"Repolho","supermercado":"Hyper","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"SMnga4kBtlA6u5f4X9YA","_score":1,"_source":{"nome":"Milho verde","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Scnga4kBtlA6u5f4X9YD","_score":1,"_source":{"nome":"Couve-flor","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ssnga4kBtlA6u5f4X9YF","_score":1,"_source":{"nome":"Brócolis","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"S8nga4kBtlA6u5f4X9YI","_score":1,"_source":{"nome":"Alho","supermercado":"Hyper","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"TMnga4kBtlA6u5f4X9YL","_score":1,"_source":{"nome":"Salsa","supermercado":"Hyper","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Tcnga4kBtlA6u5f4X9YN","_score":1,"_source":{"nome":"Hortelã","supermercado":"Hyper","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Tsnga4kBtlA6u5f4X9YQ","_score":1,"_source":{"nome":"Manjericão","supermercado":"Hyper","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"T8nga4kBtlA6u5f4X9YT","_score":1,"_source":{"nome":"Alecrim","supermercado":"Hyper","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"UMnga4kBtlA6u5f4X9YW","_score":1,"_source":{"nome":"Salsinha","supermercado":"Hyper","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Ucnga4kBtlA6u5f4X9YY","_score":1,"_source":{"nome":"Orégano","supermercado":"Hyper","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Usnga4kBtlA6u5f4X9Yb","_score":1,"_source":{"nome":"Pimenta-do-reino","supermercado":"Hyper","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"U8nga4kBtlA6u5f4X9Ye","_score":1,"_source":{"nome":"Pimenta vermelha","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"VMnga4kBtlA6u5f4X9Yg","_score":1,"_source":{"nome":"Mel","supermercado":"Hyper","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Vcnga4kBtlA6u5f4X9Yj","_score":1,"_source":{"nome":"Chocolate em pó","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Vsnga4kBtlA6u5f4X9Yl","_score":1,"_source":{"nome":"Gelatina","supermercado":"Hyper","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"V8nga4kBtlA6u5f4X9Yo","_score":1,"_source":{"nome":"Leite em pó","supermercado":"Hyper","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"WMnga4kBtlA6u5f4X9Yr","_score":1,"_source":{"nome":"Cuscuz","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Wcnga4kBtlA6u5f4X9Yu","_score":1,"_source":{"nome":"Iogurte de frutas","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Wsnga4kBtlA6u5f4X9Yx","_score":1,"_source":{"nome":"Chantilly","supermercado":"Hyper","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"W8nga4kBtlA6u5f4X9Y0","_score":1,"_source":{"nome":"Pudim","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"XMnga4kBtlA6u5f4X9Y2","_score":1,"_source":{"nome":"Gelatina em pó","supermercado":"Hyper","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Xcnga4kBtlA6u5f4X9Y5","_score":1,"_source":{"nome":"Bala","supermercado":"Hyper","preco":"0.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Xsnga4kBtlA6u5f4X9Y8","_score":1,"_source":{"nome":"Pipoca doce","supermercado":"Hyper","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"X8nga4kBtlA6u5f4X9Y_","_score":1,"_source":{"nome":"Amendoim","supermercado":"Hyper","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"YMnga4kBtlA6u5f4X9ZB","_score":1,"_source":{"nome":"Salgadinho de milho","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ycnga4kBtlA6u5f4X9ZE","_score":1,"_source":{"nome":"Salgadinho de queijo","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ysnga4kBtlA6u5f4X9ZI","_score":1,"_source":{"nome":"Salgadinho de cebola","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Y8nga4kBtlA6u5f4X9ZK","_score":1,"_source":{"nome":"Salgadinho de churrasco","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"ZMnga4kBtlA6u5f4X9ZN","_score":1,"_source":{"nome":"Salgadinho de bacon","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Zcnga4kBtlA6u5f4X9ZP","_score":1,"_source":{"nome":"Salgadinho de pimenta","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Zsnga4kBtlA6u5f4X9ZS","_score":1,"_source":{"nome":"Salgadinho de limão","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Z8nga4kBtlA6u5f4X9ZV","_score":1,"_source":{"nome":"Salgadinho de salsa","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"aMnga4kBtlA6u5f4X9ZY","_score":1,"_source":{"nome":"Salgadinho de alho","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"acnga4kBtlA6u5f4X9Zb","_score":1,"_source":{"nome":"Salgadinho de ervas","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"asnga4kBtlA6u5f4X9Ze","_score":1,"_source":{"nome":"Salgadinho de queijo e cebola","supermercado":"Hyper","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"a8nga4kBtlA6u5f4X9Zh","_score":1,"_source":{"nome":"Salgadinho de presunto e queijo","supermercado":"Hyper","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"bMnga4kBtlA6u5f4X9Zl","_score":1,"_source":{"nome":"Arroz","supermercado":"Bretas","preco":"7.89"}}
+{"_index":"produto","_type":"type_produto","_id":"bcnga4kBtlA6u5f4X9Zo","_score":1,"_source":{"nome":"Feijão","supermercado":"Bretas","preco":"4.29"}}
+{"_index":"produto","_type":"type_produto","_id":"bsnga4kBtlA6u5f4X9Zq","_score":1,"_source":{"nome":"Macarrão","supermercado":"Bretas","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"b8nga4kBtlA6u5f4X9Zt","_score":1,"_source":{"nome":"Leite","supermercado":"Bretas","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"cMnga4kBtlA6u5f4X9Zw","_score":1,"_source":{"nome":"Ovos","supermercado":"Bretas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"ccnga4kBtlA6u5f4X9Zy","_score":1,"_source":{"nome":"Pão","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"csnga4kBtlA6u5f4X9Z1","_score":1,"_source":{"nome":"Manteiga","supermercado":"Bretas","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"c8nga4kBtlA6u5f4X9Z4","_score":1,"_source":{"nome":"Queijo","supermercado":"Bretas","preco":"11.99"}}
+{"_index":"produto","_type":"type_produto","_id":"dMnga4kBtlA6u5f4X9Z6","_score":1,"_source":{"nome":"Presunto","supermercado":"Bretas","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"dcnga4kBtlA6u5f4X9Z9","_score":1,"_source":{"nome":"Frango","supermercado":"Bretas","preco":"9.49"}}
+{"_index":"produto","_type":"type_produto","_id":"dsnga4kBtlA6u5f4X9aA","_score":1,"_source":{"nome":"Carne moída","supermercado":"Bretas","preco":"13.99"}}
+{"_index":"produto","_type":"type_produto","_id":"d8nga4kBtlA6u5f4X9aD","_score":1,"_source":{"nome":"Alface","supermercado":"Bretas","preco":"1.59"}}
+{"_index":"produto","_type":"type_produto","_id":"eMnga4kBtlA6u5f4X9aF","_score":1,"_source":{"nome":"Tomate","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"ecnga4kBtlA6u5f4X9aI","_score":1,"_source":{"nome":"Cebola","supermercado":"Bretas","preco":"1.29"}}
+{"_index":"produto","_type":"type_produto","_id":"esnga4kBtlA6u5f4X9aK","_score":1,"_source":{"nome":"Batata","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"e8nga4kBtlA6u5f4X9aN","_score":1,"_source":{"nome":"Cenoura","supermercado":"Bretas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"fMnga4kBtlA6u5f4X9aQ","_score":1,"_source":{"nome":"Banana","supermercado":"Bretas","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"fcnga4kBtlA6u5f4X9aT","_score":1,"_source":{"nome":"Maçã","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"fsnga4kBtlA6u5f4X9aV","_score":1,"_source":{"nome":"Laranja","supermercado":"Bretas","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"f8nga4kBtlA6u5f4X9aY","_score":1,"_source":{"nome":"Mamão","supermercado":"Bretas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"gMnga4kBtlA6u5f4X9ab","_score":1,"_source":{"nome":"Abacaxi","supermercado":"Bretas","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"gcnga4kBtlA6u5f4X9ae","_score":1,"_source":{"nome":"Morango","supermercado":"Bretas","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"gsnga4kBtlA6u5f4X9ah","_score":1,"_source":{"nome":"Melancia","supermercado":"Bretas","preco":"7.99"}}
+{"_index":"produto","_type":"type_produto","_id":"g8nga4kBtlA6u5f4X9aj","_score":1,"_source":{"nome":"Suco de laranja","supermercado":"Bretas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"hMnga4kBtlA6u5f4X9am","_score":1,"_source":{"nome":"Refrigerante","supermercado":"Bretas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"hcnga4kBtlA6u5f4X9ao","_score":1,"_source":{"nome":"Água mineral","supermercado":"Bretas","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"hsnga4kBtlA6u5f4X9ar","_score":1,"_source":{"nome":"Café","supermercado":"Bretas","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"h8nga4kBtlA6u5f4X9au","_score":1,"_source":{"nome":"Açúcar","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"iMnga4kBtlA6u5f4X9ax","_score":1,"_source":{"nome":"Sal","supermercado":"Bretas","preco":"1.29"}}
+{"_index":"produto","_type":"type_produto","_id":"icnga4kBtlA6u5f4X9az","_score":1,"_source":{"nome":"Óleo de soja","supermercado":"Bretas","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"isnga4kBtlA6u5f4X9a2","_score":1,"_source":{"nome":"Farinha de trigo","supermercado":"Bretas","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"i8nga4kBtlA6u5f4X9a5","_score":1,"_source":{"nome":"Fermento em pó","supermercado":"Bretas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"jMnga4kBtlA6u5f4X9a7","_score":1,"_source":{"nome":"Biscoitos","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"jcnga4kBtlA6u5f4X9a-","_score":1,"_source":{"nome":"Chocolate","supermercado":"Bretas","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"jsnga4kBtlA6u5f4X9bA","_score":1,"_source":{"nome":"Sorvete","supermercado":"Bretas","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"j8nga4kBtlA6u5f4X9bD","_score":1,"_source":{"nome":"Cerveja","supermercado":"Bretas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"kMnga4kBtlA6u5f4X9bG","_score":1,"_source":{"nome":"Vinho","supermercado":"Bretas","preco":"11.99"}}
+{"_index":"produto","_type":"type_produto","_id":"kcnga4kBtlA6u5f4X9bI","_score":1,"_source":{"nome":"Whisky","supermercado":"Bretas","preco":"39.99"}}
+{"_index":"produto","_type":"type_produto","_id":"ksnga4kBtlA6u5f4X9bL","_score":1,"_source":{"nome":"Leite condensado","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"k8nga4kBtlA6u5f4X9bO","_score":1,"_source":{"nome":"Creme de leite","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"lMnga4kBtlA6u5f4X9bR","_score":1,"_source":{"nome":"Achocolatado","supermercado":"Bretas","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"lcnga4kBtlA6u5f4X9bU","_score":1,"_source":{"nome":"Iogurte","supermercado":"Bretas","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"lsnga4kBtlA6u5f4X9bW","_score":1,"_source":{"nome":"Doce de leite","supermercado":"Bretas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"l8nga4kBtlA6u5f4X9bZ","_score":1,"_source":{"nome":"Biscoito recheado","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"mMnga4kBtlA6u5f4X9bb","_score":1,"_source":{"nome":"Queijo ralado","supermercado":"Bretas","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"mcnga4kBtlA6u5f4X9be","_score":1,"_source":{"nome":"Molho de tomate","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"msnga4kBtlA6u5f4X9bg","_score":1,"_source":{"nome":"Maionese","supermercado":"Bretas","preco":"4.29"}}
+{"_index":"produto","_type":"type_produto","_id":"m8nga4kBtlA6u5f4X9bj","_score":1,"_source":{"nome":"Ketchup","supermercado":"Bretas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"nMnga4kBtlA6u5f4X9bm","_score":1,"_source":{"nome":"Mostarda","supermercado":"Bretas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"ncnga4kBtlA6u5f4X9bo","_score":1,"_source":{"nome":"Catchup","supermercado":"Bretas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"nsnga4kBtlA6u5f4X9br","_score":1,"_source":{"nome":"Geléia","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"n8nga4kBtlA6u5f4X9bu","_score":1,"_source":{"nome":"Margarina","supermercado":"Bretas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"oMnga4kBtlA6u5f4X9bw","_score":1,"_source":{"nome":"Sabonete","supermercado":"Bretas","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"ocnga4kBtlA6u5f4X9bz","_score":1,"_source":{"nome":"Shampoo","supermercado":"Bretas","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"osnga4kBtlA6u5f4X9b1","_score":1,"_source":{"nome":"Condicionador","supermercado":"Bretas","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"o8nga4kBtlA6u5f4X9b4","_score":1,"_source":{"nome":"Escova de dentes","supermercado":"Bretas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"pMnga4kBtlA6u5f4X9b7","_score":1,"_source":{"nome":"Pasta de dente","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"pcnga4kBtlA6u5f4X9b9","_score":1,"_source":{"nome":"Papel higiênico","supermercado":"Bretas","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"psnga4kBtlA6u5f4YNYA","_score":1,"_source":{"nome":"Sabão em pó","supermercado":"Bretas","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"p8nga4kBtlA6u5f4YNYD","_score":1,"_source":{"nome":"Amaciante de roupas","supermercado":"Bretas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"qMnga4kBtlA6u5f4YNYF","_score":1,"_source":{"nome":"Detergente","supermercado":"Bretas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"qcnga4kBtlA6u5f4YNYI","_score":1,"_source":{"nome":"Esponja de cozinha","supermercado":"Bretas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"qsnga4kBtlA6u5f4YNYL","_score":1,"_source":{"nome":"Desodorante","supermercado":"Bretas","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"q8nga4kBtlA6u5f4YNYN","_score":1,"_source":{"nome":"Perfume","supermercado":"Bretas","preco":"29.99"}}
+{"_index":"produto","_type":"type_produto","_id":"rMnga4kBtlA6u5f4YNYQ","_score":1,"_source":{"nome":"Talco","supermercado":"Bretas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"rcnga4kBtlA6u5f4YNYS","_score":1,"_source":{"nome":"Lâmina de barbear","supermercado":"Bretas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"rsnga4kBtlA6u5f4YNYV","_score":1,"_source":{"nome":"Fio dental","supermercado":"Bretas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"r8nga4kBtlA6u5f4YNYY","_score":1,"_source":{"nome":"Algodão","supermercado":"Bretas","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"sMnga4kBtlA6u5f4YNYa","_score":1,"_source":{"nome":"Pilhas","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"scnga4kBtlA6u5f4YNYd","_score":1,"_source":{"nome":"Lâmpadas","supermercado":"Bretas","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"ssnga4kBtlA6u5f4YNYg","_score":1,"_source":{"nome":"Vela","supermercado":"Bretas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"s8nga4kBtlA6u5f4YNYi","_score":1,"_source":{"nome":"Fósforos","supermercado":"Bretas","preco":"1.29"}}
+{"_index":"produto","_type":"type_produto","_id":"tMnga4kBtlA6u5f4YNYl","_score":1,"_source":{"nome":"Enlatados","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"tcnga4kBtlA6u5f4YNYo","_score":1,"_source":{"nome":"Salgadinhos","supermercado":"Bretas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"tsnga4kBtlA6u5f4YNYq","_score":1,"_source":{"nome":"Pipoca","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"t8nga4kBtlA6u5f4YNYt","_score":1,"_source":{"nome":"Queijo coalho","supermercado":"Bretas","preco":"7.99"}}
+{"_index":"produto","_type":"type_produto","_id":"uMnga4kBtlA6u5f4YNYw","_score":1,"_source":{"nome":"Mortadela","supermercado":"Bretas","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"ucnga4kBtlA6u5f4YNYy","_score":1,"_source":{"nome":"Salsicha","supermercado":"Bretas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"usnga4kBtlA6u5f4YNY1","_score":1,"_source":{"nome":"Linguiça","supermercado":"Bretas","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"u8nga4kBtlA6u5f4YNY4","_score":1,"_source":{"nome":"Salame","supermercado":"Bretas","preco":"8.99"}}
+{"_index":"produto","_type":"type_produto","_id":"vMnga4kBtlA6u5f4YNY6","_score":1,"_source":{"nome":"Peito de peru","supermercado":"Bretas","preco":"9.99"}}
+{"_index":"produto","_type":"type_produto","_id":"vcnga4kBtlA6u5f4YNY9","_score":1,"_source":{"nome":"Picanha","supermercado":"Bretas","preco":"19.99"}}
+{"_index":"produto","_type":"type_produto","_id":"vsnga4kBtlA6u5f4YNY_","_score":1,"_source":{"nome":"Filé de peixe","supermercado":"Bretas","preco":"11.99"}}
+{"_index":"produto","_type":"type_produto","_id":"v8nga4kBtlA6u5f4YNZC","_score":1,"_source":{"nome":"Atum","supermercado":"Bretas","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"wMnga4kBtlA6u5f4YNZE","_score":1,"_source":{"nome":"Salmão","supermercado":"Bretas","preco":"14.99"}}
+{"_index":"produto","_type":"type_produto","_id":"wcnga4kBtlA6u5f4YNZH","_score":1,"_source":{"nome":"Camarão","supermercado":"Bretas","preco":"16.99"}}
+{"_index":"produto","_type":"type_produto","_id":"wsnga4kBtlA6u5f4YNZK","_score":1,"_source":{"nome":"Ostras","supermercado":"Bretas","preco":"19.99"}}
+{"_index":"produto","_type":"type_produto","_id":"w8nga4kBtlA6u5f4YNZM","_score":1,"_source":{"nome":"Amêndoas","supermercado":"Bretas","preco":"7.99"}}
+{"_index":"produto","_type":"type_produto","_id":"xMnga4kBtlA6u5f4YNZO","_score":1,"_source":{"nome":"Castanhas","supermercado":"Bretas","preco":"9.99"}}
+{"_index":"produto","_type":"type_produto","_id":"xcnga4kBtlA6u5f4YNZR","_score":1,"_source":{"nome":"Nozes","supermercado":"Bretas","preco":"8.99"}}
+{"_index":"produto","_type":"type_produto","_id":"xsnga4kBtlA6u5f4YNZT","_score":1,"_source":{"nome":"Pistaches","supermercado":"Bretas","preco":"12.99"}}
+{"_index":"produto","_type":"type_produto","_id":"x8nga4kBtlA6u5f4YNZX","_score":1,"_source":{"nome":"Suco em pó","supermercado":"Bretas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"yMnga4kBtlA6u5f4YNZa","_score":1,"_source":{"nome":"Chá","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"ycnga4kBtlA6u5f4YNZc","_score":1,"_source":{"nome":"Massa de pastel","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"ysnga4kBtlA6u5f4YNZf","_score":1,"_source":{"nome":"Molho de pimenta","supermercado":"Bretas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"y8nga4kBtlA6u5f4YNZh","_score":1,"_source":{"nome":"Batata chips","supermercado":"Bretas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"zMnga4kBtlA6u5f4YNZk","_score":1,"_source":{"nome":"Cereais","supermercado":"Bretas","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"zcnga4kBtlA6u5f4YNZn","_score":1,"_source":{"nome":"Granola","supermercado":"Bretas","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"zsnga4kBtlA6u5f4YNZq","_score":1,"_source":{"nome":"Barra de cereal","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"z8nga4kBtlA6u5f4YNZs","_score":1,"_source":{"nome":"Geleia de mocotó","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"0Mnga4kBtlA6u5f4YNZv","_score":1,"_source":{"nome":"Feijão preto","supermercado":"Bretas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"0cnga4kBtlA6u5f4YNZy","_score":1,"_source":{"nome":"Feijão carioca","supermercado":"Bretas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"0snga4kBtlA6u5f4YNZ1","_score":1,"_source":{"nome":"Milho enlatado","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"08nga4kBtlA6u5f4YNZ3","_score":1,"_source":{"nome":"Ervilha enlatada","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"1Mnga4kBtlA6u5f4YNZ6","_score":1,"_source":{"nome":"Lentilha enlatada","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"1cnga4kBtlA6u5f4YNZ8","_score":1,"_source":{"nome":"Amido de milho","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"1snga4kBtlA6u5f4YNZ_","_score":1,"_source":{"nome":"Farinha de mandioca","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"18nga4kBtlA6u5f4YNaC","_score":1,"_source":{"nome":"Farofa pronta","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"2Mnga4kBtlA6u5f4YNaE","_score":1,"_source":{"nome":"Molho shoyu","supermercado":"Bretas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"2cnga4kBtlA6u5f4YNaH","_score":1,"_source":{"nome":"Azeite de oliva","supermercado":"Bretas","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"2snga4kBtlA6u5f4YNaJ","_score":1,"_source":{"nome":"Vinagre","supermercado":"Bretas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"28nga4kBtlA6u5f4YNaM","_score":1,"_source":{"nome":"Azeitonas","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"3Mnga4kBtlA6u5f4YNaP","_score":1,"_source":{"nome":"Palmito","supermercado":"Bretas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"3cnga4kBtlA6u5f4YNaR","_score":1,"_source":{"nome":"Pepino em conserva","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"3snga4kBtlA6u5f4YNaU","_score":1,"_source":{"nome":"Abobrinha","supermercado":"Bretas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"38nga4kBtlA6u5f4YNaX","_score":1,"_source":{"nome":"Berinjela","supermercado":"Bretas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"4Mnga4kBtlA6u5f4YNaa","_score":1,"_source":{"nome":"Repolho","supermercado":"Bretas","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"4cnga4kBtlA6u5f4YNac","_score":1,"_source":{"nome":"Milho verde","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"4snga4kBtlA6u5f4YNaf","_score":1,"_source":{"nome":"Couve-flor","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"48nga4kBtlA6u5f4YNai","_score":1,"_source":{"nome":"Brócolis","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"5Mnga4kBtlA6u5f4YNak","_score":1,"_source":{"nome":"Alho","supermercado":"Bretas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"5cnga4kBtlA6u5f4YNan","_score":1,"_source":{"nome":"Salsa","supermercado":"Bretas","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"5snga4kBtlA6u5f4YNaq","_score":1,"_source":{"nome":"Hortelã","supermercado":"Bretas","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"58nga4kBtlA6u5f4YNat","_score":1,"_source":{"nome":"Manjericão","supermercado":"Bretas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"6Mnga4kBtlA6u5f4YNaw","_score":1,"_source":{"nome":"Alecrim","supermercado":"Bretas","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"6cnga4kBtlA6u5f4YNaz","_score":1,"_source":{"nome":"Salsinha","supermercado":"Bretas","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"6snga4kBtlA6u5f4YNa1","_score":1,"_source":{"nome":"Orégano","supermercado":"Bretas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"68nga4kBtlA6u5f4YNa4","_score":1,"_source":{"nome":"Pimenta-do-reino","supermercado":"Bretas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"7Mnga4kBtlA6u5f4YNa6","_score":1,"_source":{"nome":"Pimenta vermelha","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"7cnga4kBtlA6u5f4YNa9","_score":1,"_source":{"nome":"Mel","supermercado":"Bretas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"7snga4kBtlA6u5f4YNbA","_score":1,"_source":{"nome":"Chocolate em pó","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"78nga4kBtlA6u5f4YNbC","_score":1,"_source":{"nome":"Gelatina","supermercado":"Bretas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"8Mnga4kBtlA6u5f4YNbF","_score":1,"_source":{"nome":"Leite em pó","supermercado":"Bretas","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"8cnga4kBtlA6u5f4YNbI","_score":1,"_source":{"nome":"Cuscuz","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"8snga4kBtlA6u5f4YNbL","_score":1,"_source":{"nome":"Iogurte de frutas","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"88nga4kBtlA6u5f4YNbN","_score":1,"_source":{"nome":"Chantilly","supermercado":"Bretas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"9Mnga4kBtlA6u5f4YNbQ","_score":1,"_source":{"nome":"Pudim","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"9cnga4kBtlA6u5f4YNbS","_score":1,"_source":{"nome":"Gelatina em pó","supermercado":"Bretas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"9snga4kBtlA6u5f4YNbV","_score":1,"_source":{"nome":"Bala","supermercado":"Bretas","preco":"0.99"}}
+{"_index":"produto","_type":"type_produto","_id":"98nga4kBtlA6u5f4YNbX","_score":1,"_source":{"nome":"Pipoca doce","supermercado":"Bretas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"-Mnga4kBtlA6u5f4YNba","_score":1,"_source":{"nome":"Amendoim","supermercado":"Bretas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"-cnga4kBtlA6u5f4YNbd","_score":1,"_source":{"nome":"Salgadinho de milho","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"-snga4kBtlA6u5f4YNbg","_score":1,"_source":{"nome":"Salgadinho de queijo","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"-8nga4kBtlA6u5f4YNbj","_score":1,"_source":{"nome":"Salgadinho de cebola","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"_Mnga4kBtlA6u5f4YNbl","_score":1,"_source":{"nome":"Salgadinho de churrasco","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"_cnga4kBtlA6u5f4YNbo","_score":1,"_source":{"nome":"Salgadinho de bacon","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"_snga4kBtlA6u5f4YNbq","_score":1,"_source":{"nome":"Salgadinho de pimenta","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"_8nga4kBtlA6u5f4YNbt","_score":1,"_source":{"nome":"Salgadinho de limão","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"AMnga4kBtlA6u5f4YNfv","_score":1,"_source":{"nome":"Salgadinho de salsa","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Acnga4kBtlA6u5f4YNfy","_score":1,"_source":{"nome":"Salgadinho de alho","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Asnga4kBtlA6u5f4YNf1","_score":1,"_source":{"nome":"Salgadinho de ervas","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"A8nga4kBtlA6u5f4YNf3","_score":1,"_source":{"nome":"Salgadinho de queijo e cebola","supermercado":"Bretas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"BMnga4kBtlA6u5f4YNf6","_score":1,"_source":{"nome":"Salgadinho de presunto e queijo","supermercado":"Bretas","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Bcnga4kBtlA6u5f4YNf8","_score":1,"_source":{"nome":"Arroz","supermercado":"Mart Minas","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Bsnga4kBtlA6u5f4YNf_","_score":1,"_source":{"nome":"Feijão","supermercado":"Mart Minas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"B8nga4kBtlA6u5f4YdcC","_score":1,"_source":{"nome":"Macarrão","supermercado":"Mart Minas","preco":"2.29"}}
+{"_index":"produto","_type":"type_produto","_id":"CMnga4kBtlA6u5f4YdcE","_score":1,"_source":{"nome":"Leite","supermercado":"Mart Minas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ccnga4kBtlA6u5f4YdcH","_score":1,"_source":{"nome":"Ovos","supermercado":"Mart Minas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Csnga4kBtlA6u5f4YdcJ","_score":1,"_source":{"nome":"Pão","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"C8nga4kBtlA6u5f4YdcM","_score":1,"_source":{"nome":"Manteiga","supermercado":"Mart Minas","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"DMnga4kBtlA6u5f4YdcP","_score":1,"_source":{"nome":"Queijo","supermercado":"Mart Minas","preco":"9.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Dcnga4kBtlA6u5f4YdcR","_score":1,"_source":{"nome":"Presunto","supermercado":"Mart Minas","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Dsnga4kBtlA6u5f4YdcU","_score":1,"_source":{"nome":"Frango","supermercado":"Mart Minas","preco":"8.99"}}
+{"_index":"produto","_type":"type_produto","_id":"D8nga4kBtlA6u5f4YdcX","_score":1,"_source":{"nome":"Carne moída","supermercado":"Mart Minas","preco":"12.99"}}
+{"_index":"produto","_type":"type_produto","_id":"EMnga4kBtlA6u5f4YdcZ","_score":1,"_source":{"nome":"Alface","supermercado":"Mart Minas","preco":"1.29"}}
+{"_index":"produto","_type":"type_produto","_id":"Ecnga4kBtlA6u5f4Ydcc","_score":1,"_source":{"nome":"Tomate","supermercado":"Mart Minas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Esnga4kBtlA6u5f4Ydcf","_score":1,"_source":{"nome":"Cebola","supermercado":"Mart Minas","preco":"1.19"}}
+{"_index":"produto","_type":"type_produto","_id":"E8nga4kBtlA6u5f4Ydch","_score":1,"_source":{"nome":"Batata","supermercado":"Mart Minas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"FMnga4kBtlA6u5f4Ydck","_score":1,"_source":{"nome":"Cenoura","supermercado":"Mart Minas","preco":"1.69"}}
+{"_index":"produto","_type":"type_produto","_id":"Fcnga4kBtlA6u5f4Ydcn","_score":1,"_source":{"nome":"Banana","supermercado":"Mart Minas","preco":"1.69"}}
+{"_index":"produto","_type":"type_produto","_id":"Fsnga4kBtlA6u5f4Ydcp","_score":1,"_source":{"nome":"Maçã","supermercado":"Mart Minas","preco":"3.29"}}
+{"_index":"produto","_type":"type_produto","_id":"F8nga4kBtlA6u5f4Ydcs","_score":1,"_source":{"nome":"Laranja","supermercado":"Mart Minas","preco":"2.29"}}
+{"_index":"produto","_type":"type_produto","_id":"GMnga4kBtlA6u5f4Ydcu","_score":1,"_source":{"nome":"Mamão","supermercado":"Mart Minas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Gcnga4kBtlA6u5f4Ydcx","_score":1,"_source":{"nome":"Abacaxi","supermercado":"Mart Minas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Gsnga4kBtlA6u5f4Ydcz","_score":1,"_source":{"nome":"Morango","supermercado":"Mart Minas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"G8nga4kBtlA6u5f4Ydc2","_score":1,"_source":{"nome":"Melancia","supermercado":"Mart Minas","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"HMnga4kBtlA6u5f4Ydc5","_score":1,"_source":{"nome":"Suco de laranja","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Hcnga4kBtlA6u5f4Ydc8","_score":1,"_source":{"nome":"Refrigerante","supermercado":"Mart Minas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Hsnga4kBtlA6u5f4Ydc_","_score":1,"_source":{"nome":"Água mineral","supermercado":"Mart Minas","preco":"0.99"}}
+{"_index":"produto","_type":"type_produto","_id":"H8nga4kBtlA6u5f4YddB","_score":1,"_source":{"nome":"Café","supermercado":"Mart Minas","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"IMnga4kBtlA6u5f4YddE","_score":1,"_source":{"nome":"Açúcar","supermercado":"Mart Minas","preco":"2.29"}}
+{"_index":"produto","_type":"type_produto","_id":"Icnga4kBtlA6u5f4YddG","_score":1,"_source":{"nome":"Sal","supermercado":"Mart Minas","preco":"0.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Isnga4kBtlA6u5f4YddJ","_score":1,"_source":{"nome":"Óleo de soja","supermercado":"Mart Minas","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"I8nga4kBtlA6u5f4YddM","_score":1,"_source":{"nome":"Farinha de trigo","supermercado":"Mart Minas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"JMnga4kBtlA6u5f4YddO","_score":1,"_source":{"nome":"Fermento em pó","supermercado":"Mart Minas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Jcnga4kBtlA6u5f4YddQ","_score":1,"_source":{"nome":"Biscoitos","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Jsnga4kBtlA6u5f4YddT","_score":1,"_source":{"nome":"Chocolate","supermercado":"Mart Minas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"J8nga4kBtlA6u5f4YddW","_score":1,"_source":{"nome":"Sorvete","supermercado":"Mart Minas","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"KMnga4kBtlA6u5f4YddY","_score":1,"_source":{"nome":"Cerveja","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Kcnga4kBtlA6u5f4Yddb","_score":1,"_source":{"nome":"Vinho","supermercado":"Mart Minas","preco":"9.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ksnga4kBtlA6u5f4Yddd","_score":1,"_source":{"nome":"Whisky","supermercado":"Mart Minas","preco":"29.99"}}
+{"_index":"produto","_type":"type_produto","_id":"K8nga4kBtlA6u5f4Yddg","_score":1,"_source":{"nome":"Leite condensado","supermercado":"Mart Minas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"LMnga4kBtlA6u5f4Yddj","_score":1,"_source":{"nome":"Creme de leite","supermercado":"Mart Minas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Lcnga4kBtlA6u5f4Yddm","_score":1,"_source":{"nome":"Achocolatado","supermercado":"Mart Minas","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Lsnga4kBtlA6u5f4Yddo","_score":1,"_source":{"nome":"Iogurte","supermercado":"Mart Minas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"L8nga4kBtlA6u5f4Yddr","_score":1,"_source":{"nome":"Doce de leite","supermercado":"Mart Minas","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"MMnga4kBtlA6u5f4Yddu","_score":1,"_source":{"nome":"Biscoito recheado","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Mcnga4kBtlA6u5f4Yddw","_score":1,"_source":{"nome":"Queijo ralado","supermercado":"Mart Minas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Msnga4kBtlA6u5f4Yddz","_score":1,"_source":{"nome":"Molho de tomate","supermercado":"Mart Minas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"M8nga4kBtlA6u5f4Ydd2","_score":1,"_source":{"nome":"Maionese","supermercado":"Mart Minas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"NMnga4kBtlA6u5f4Ydd5","_score":1,"_source":{"nome":"Ketchup","supermercado":"Mart Minas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ncnga4kBtlA6u5f4Ydd7","_score":1,"_source":{"nome":"Mostarda","supermercado":"Mart Minas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Nsnga4kBtlA6u5f4Ydd-","_score":1,"_source":{"nome":"Catchup","supermercado":"Mart Minas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"N8nga4kBtlA6u5f4YdeB","_score":1,"_source":{"nome":"Geléia","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"OMnga4kBtlA6u5f4YdeD","_score":1,"_source":{"nome":"Margarina","supermercado":"Mart Minas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ocnga4kBtlA6u5f4YdeG","_score":1,"_source":{"nome":"Sabonete","supermercado":"Mart Minas","preco":"0.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Osnga4kBtlA6u5f4YdeI","_score":1,"_source":{"nome":"Shampoo","supermercado":"Mart Minas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"O8nga4kBtlA6u5f4YdeL","_score":1,"_source":{"nome":"Condicionador","supermercado":"Mart Minas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"PMnga4kBtlA6u5f4YdeN","_score":1,"_source":{"nome":"Escova de dentes","supermercado":"Mart Minas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Pcnga4kBtlA6u5f4YdeQ","_score":1,"_source":{"nome":"Pasta de dente","supermercado":"Mart Minas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Psnga4kBtlA6u5f4YdeT","_score":1,"_source":{"nome":"Papel higiênico","supermercado":"Mart Minas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"P8nga4kBtlA6u5f4YdeV","_score":1,"_source":{"nome":"Sabão em pó","supermercado":"Mart Minas","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"QMnga4kBtlA6u5f4YdeY","_score":1,"_source":{"nome":"Amaciante de roupas","supermercado":"Mart Minas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Qcnga4kBtlA6u5f4Ydeb","_score":1,"_source":{"nome":"Detergente","supermercado":"Mart Minas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Qsnga4kBtlA6u5f4Yded","_score":1,"_source":{"nome":"Esponja de cozinha","supermercado":"Mart Minas","preco":"0.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Q8nga4kBtlA6u5f4Ydeg","_score":1,"_source":{"nome":"Desodorante","supermercado":"Mart Minas","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"RMnga4kBtlA6u5f4Ydei","_score":1,"_source":{"nome":"Perfume","supermercado":"Mart Minas","preco":"24.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Rcnga4kBtlA6u5f4Ydel","_score":1,"_source":{"nome":"Talco","supermercado":"Mart Minas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Rsnga4kBtlA6u5f4Yden","_score":1,"_source":{"nome":"Lâmina de barbear","supermercado":"Mart Minas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"R8nga4kBtlA6u5f4Ydeq","_score":1,"_source":{"nome":"Fio dental","supermercado":"Mart Minas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"SMnga4kBtlA6u5f4Ydes","_score":1,"_source":{"nome":"Algodão","supermercado":"Mart Minas","preco":"0.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Scnga4kBtlA6u5f4Ydev","_score":1,"_source":{"nome":"Pilhas","supermercado":"Mart Minas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ssnga4kBtlA6u5f4Ydey","_score":1,"_source":{"nome":"Lâmpadas","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"S8nga4kBtlA6u5f4Yde0","_score":1,"_source":{"nome":"Vela","supermercado":"Mart Minas","preco":"0.99"}}
+{"_index":"produto","_type":"type_produto","_id":"TMnga4kBtlA6u5f4Yde3","_score":1,"_source":{"nome":"Fósforos","supermercado":"Mart Minas","preco":"0.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Tcnga4kBtlA6u5f4Yde6","_score":1,"_source":{"nome":"Enlatados","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Tsnga4kBtlA6u5f4Yde8","_score":1,"_source":{"nome":"Salgadinhos","supermercado":"Mart Minas","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"T8nga4kBtlA6u5f4Yde_","_score":1,"_source":{"nome":"Pipoca","supermercado":"Mart Minas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"UMnga4kBtlA6u5f4YdfB","_score":1,"_source":{"nome":"Queijo coalho","supermercado":"Mart Minas","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ucnga4kBtlA6u5f4YdfE","_score":1,"_source":{"nome":"Mortadela","supermercado":"Mart Minas","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Usnga4kBtlA6u5f4YdfG","_score":1,"_source":{"nome":"Salsicha","supermercado":"Mart Minas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"U8nga4kBtlA6u5f4YdfJ","_score":1,"_source":{"nome":"Linguiça","supermercado":"Mart Minas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"VMnga4kBtlA6u5f4YdfM","_score":1,"_source":{"nome":"Salame","supermercado":"Mart Minas","preco":"7.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Vcnga4kBtlA6u5f4YdfO","_score":1,"_source":{"nome":"Peito de peru","supermercado":"Mart Minas","preco":"8.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Vsnga4kBtlA6u5f4YdfR","_score":1,"_source":{"nome":"Picanha","supermercado":"Mart Minas","preco":"17.99"}}
+{"_index":"produto","_type":"type_produto","_id":"V8nga4kBtlA6u5f4YdfU","_score":1,"_source":{"nome":"Filé de peixe","supermercado":"Mart Minas","preco":"10.99"}}
+{"_index":"produto","_type":"type_produto","_id":"WMnga4kBtlA6u5f4YdfW","_score":1,"_source":{"nome":"Atum","supermercado":"Mart Minas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Wcnga4kBtlA6u5f4YdfZ","_score":1,"_source":{"nome":"Salmão","supermercado":"Mart Minas","preco":"12.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Wsnga4kBtlA6u5f4Ydfc","_score":1,"_source":{"nome":"Camarão","supermercado":"Mart Minas","preco":"14.99"}}
+{"_index":"produto","_type":"type_produto","_id":"W8nga4kBtlA6u5f4Ydff","_score":1,"_source":{"nome":"Ostras","supermercado":"Mart Minas","preco":"17.99"}}
+{"_index":"produto","_type":"type_produto","_id":"XMnga4kBtlA6u5f4Ydfh","_score":1,"_source":{"nome":"Amêndoas","supermercado":"Mart Minas","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Xcnga4kBtlA6u5f4Ydfk","_score":1,"_source":{"nome":"Castanhas","supermercado":"Mart Minas","preco":"8.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Xsnga4kBtlA6u5f4Ydfn","_score":1,"_source":{"nome":"Nozes","supermercado":"Mart Minas","preco":"7.99"}}
+{"_index":"produto","_type":"type_produto","_id":"X8nga4kBtlA6u5f4Ydfq","_score":1,"_source":{"nome":"Pistaches","supermercado":"Mart Minas","preco":"11.99"}}
+{"_index":"produto","_type":"type_produto","_id":"YMnga4kBtlA6u5f4Ydft","_score":1,"_source":{"nome":"Suco em pó","supermercado":"Mart Minas","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Ycnga4kBtlA6u5f4Ydfw","_score":1,"_source":{"nome":"Chá","supermercado":"Mart Minas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ysnga4kBtlA6u5f4Ydfz","_score":1,"_source":{"nome":"Massa de pastel","supermercado":"Mart Minas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Y8nga4kBtlA6u5f4Ydf1","_score":1,"_source":{"nome":"Molho de pimenta","supermercado":"Mart Minas","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"ZMnga4kBtlA6u5f4Ydf4","_score":1,"_source":{"nome":"Batata chips","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Zcnga4kBtlA6u5f4Ydf6","_score":1,"_source":{"nome":"Cereais","supermercado":"Mart Minas","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Zsnga4kBtlA6u5f4Ydf9","_score":1,"_source":{"nome":"Granola","supermercado":"Mart Minas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Z8nga4kBtlA6u5f4Ydf_","_score":1,"_source":{"nome":"Barra de cereal","supermercado":"Mart Minas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"aMnga4kBtlA6u5f4YtcC","_score":1,"_source":{"nome":"Geleia de mocotó","supermercado":"Mart Minas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"acnga4kBtlA6u5f4YtcF","_score":1,"_source":{"nome":"Feijão preto","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"asnga4kBtlA6u5f4YtcH","_score":1,"_source":{"nome":"Feijão carioca","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"a8nga4kBtlA6u5f4YtcK","_score":1,"_source":{"nome":"Milho enlatado","supermercado":"Mart Minas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"bMnga4kBtlA6u5f4YtcM","_score":1,"_source":{"nome":"Ervilha enlatada","supermercado":"Mart Minas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"bcnga4kBtlA6u5f4YtcP","_score":1,"_source":{"nome":"Lentilha enlatada","supermercado":"Mart Minas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"bsnga4kBtlA6u5f4YtcR","_score":1,"_source":{"nome":"Amido de milho","supermercado":"Mart Minas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"b8nga4kBtlA6u5f4YtcU","_score":1,"_source":{"nome":"Farinha de mandioca","supermercado":"Mart Minas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"cMnga4kBtlA6u5f4YtcW","_score":1,"_source":{"nome":"Farofa pronta","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"ccnga4kBtlA6u5f4YtcZ","_score":1,"_source":{"nome":"Molho shoyu","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"csnga4kBtlA6u5f4Ytcc","_score":1,"_source":{"nome":"Azeite de oliva","supermercado":"Mart Minas","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"c8nga4kBtlA6u5f4Ytce","_score":1,"_source":{"nome":"Vinagre","supermercado":"Mart Minas","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"dMnga4kBtlA6u5f4Ytch","_score":1,"_source":{"nome":"Azeitonas","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"dcnga4kBtlA6u5f4Ytcj","_score":1,"_source":{"nome":"Palmito","supermercado":"Mart Minas","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"dsnga4kBtlA6u5f4Ytcm","_score":1,"_source":{"nome":"Pepino em conserva","supermercado":"Mart Minas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"d8nga4kBtlA6u5f4Ytco","_score":1,"_source":{"nome":"Abobrinha","supermercado":"Mart Minas","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"eMnga4kBtlA6u5f4Ytcr","_score":1,"_source":{"nome":"Berinjela","supermercado":"Mart Minas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"ecnga4kBtlA6u5f4Ytct","_score":1,"_source":{"nome":"Repolho","supermercado":"Mart Minas","preco":"0.99"}}
+{"_index":"produto","_type":"type_produto","_id":"esnga4kBtlA6u5f4Ytcw","_score":1,"_source":{"nome":"Milho verde","supermercado":"Mart Minas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"e8nga4kBtlA6u5f4Ytcz","_score":1,"_source":{"nome":"Couve-flor","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"fMnga4kBtlA6u5f4Ytc1","_score":1,"_source":{"nome":"Brócolis","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"fcnga4kBtlA6u5f4Ytc4","_score":1,"_source":{"nome":"Alho","supermercado":"Mart Minas","preco":"1.29"}}
+{"_index":"produto","_type":"type_produto","_id":"fsnga4kBtlA6u5f4Ytc7","_score":1,"_source":{"nome":"Salsa","supermercado":"Mart Minas","preco":"0.99"}}
+{"_index":"produto","_type":"type_produto","_id":"f8nga4kBtlA6u5f4Ytc9","_score":1,"_source":{"nome":"Hortelã","supermercado":"Mart Minas","preco":"0.99"}}
+{"_index":"produto","_type":"type_produto","_id":"gMnga4kBtlA6u5f4YtdA","_score":1,"_source":{"nome":"Manjericão","supermercado":"Mart Minas","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"gcnga4kBtlA6u5f4YtdD","_score":1,"_source":{"nome":"Alecrim","supermercado":"Mart Minas","preco":"0.99"}}
+{"_index":"produto","_type":"type_produto","_id":"gsnga4kBtlA6u5f4YtdF","_score":1,"_source":{"nome":"Salsinha","supermercado":"Mart Minas","preco":"0.99"}}
+{"_index":"produto","_type":"type_produto","_id":"g8nga4kBtlA6u5f4YtdI","_score":1,"_source":{"nome":"Orégano","supermercado":"Mart Minas","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"hMnga4kBtlA6u5f4YtdL","_score":1,"_source":{"nome":"Pimenta-do-reino","supermercado":"Mart Minas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"hcnga4kBtlA6u5f4YtdN","_score":1,"_source":{"nome":"Pimenta vermelha","supermercado":"Mart Minas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"hsnga4kBtlA6u5f4YtdQ","_score":1,"_source":{"nome":"Mel","supermercado":"Mart Minas","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"h8nga4kBtlA6u5f4YtdT","_score":1,"_source":{"nome":"Chocolate em pó","supermercado":"Mart Minas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"iMnga4kBtlA6u5f4YtdV","_score":1,"_source":{"nome":"Gelatina","supermercado":"Mart Minas","preco":"0.99"}}
+{"_index":"produto","_type":"type_produto","_id":"icnga4kBtlA6u5f4YtdY","_score":1,"_source":{"nome":"Leite em pó","supermercado":"Mart Minas","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"isnga4kBtlA6u5f4Ytda","_score":1,"_source":{"nome":"Cuscuz","supermercado":"Mart Minas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"i8nga4kBtlA6u5f4Ytdd","_score":1,"_source":{"nome":"Iogurte de frutas","supermercado":"Mart Minas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"jMnga4kBtlA6u5f4Ytdg","_score":1,"_source":{"nome":"Chantilly","supermercado":"Mart Minas","preco":"2.99"}}
+{"_index":"produto","_type":"type_produto","_id":"jcnga4kBtlA6u5f4Ytdi","_score":1,"_source":{"nome":"Pudim","supermercado":"Mart Minas","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"jsnga4kBtlA6u5f4Ytdl","_score":1,"_source":{"nome":"Gelatina em pó","supermercado":"Mart Minas","preco":"0.99"}}
+{"_index":"produto","_type":"type_produto","_id":"j8nga4kBtlA6u5f4Ytdn","_score":1,"_source":{"nome":"Bala","supermercado":"Mart Minas","preco":"0.49"}}
+{"_index":"produto","_type":"type_produto","_id":"kMnga4kBtlA6u5f4Ytdq","_score":1,"_source":{"nome":"Pipoca doce","supermercado":"Mart Minas","preco":"1.99"}}
+{"_index":"produto","_type":"type_produto","_id":"kcnga4kBtlA6u5f4Ytdt","_score":1,"_source":{"nome":"Amendoim","supermercado":"Mart Minas","preco":"1.49"}}
+{"_index":"produto","_type":"type_produto","_id":"ksnga4kBtlA6u5f4Ytdv","_score":1,"_source":{"nome":"Salgadinho de milho","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"k8nga4kBtlA6u5f4Ytdz","_score":1,"_source":{"nome":"Salgadinho de queijo","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"lMnga4kBtlA6u5f4Ytd1","_score":1,"_source":{"nome":"Salgadinho de cebola","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"lcnga4kBtlA6u5f4Ytd4","_score":1,"_source":{"nome":"Salgadinho de churrasco","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"lsnga4kBtlA6u5f4Ytd7","_score":1,"_source":{"nome":"Salgadinho de bacon","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"l8nga4kBtlA6u5f4Ytd9","_score":1,"_source":{"nome":"Salgadinho de pimenta","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"mMnga4kBtlA6u5f4Ytd_","_score":1,"_source":{"nome":"Salgadinho de limão","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"mcnga4kBtlA6u5f4YteC","_score":1,"_source":{"nome":"Salgadinho de salsa","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"msnga4kBtlA6u5f4YteE","_score":1,"_source":{"nome":"Salgadinho de alho","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"m8nga4kBtlA6u5f4YteH","_score":1,"_source":{"nome":"Salgadinho de ervas","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"nMnga4kBtlA6u5f4YteK","_score":1,"_source":{"nome":"Salgadinho de queijo e cebola","supermercado":"Mart Minas","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"ncnga4kBtlA6u5f4YteM","_score":1,"_source":{"nome":"Salgadinho de presunto e queijo","supermercado":"Mart Minas","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"nsnga4kBtlA6u5f4YteP","_score":1,"_source":{"nome":"Arroz","supermercado":"Bahamas","preco":"6.71"}}
+{"_index":"produto","_type":"type_produto","_id":"n8nga4kBtlA6u5f4YteR","_score":1,"_source":{"nome":"Feijão","supermercado":"Bahamas","preco":"3.59"}}
+{"_index":"produto","_type":"type_produto","_id":"oMnga4kBtlA6u5f4YteU","_score":1,"_source":{"nome":"Macarrão","supermercado":"Bahamas","preco":"2.44"}}
+{"_index":"produto","_type":"type_produto","_id":"ocnga4kBtlA6u5f4YteX","_score":1,"_source":{"nome":"Leite","supermercado":"Bahamas","preco":"4.88"}}
+{"_index":"produto","_type":"type_produto","_id":"osnga4kBtlA6u5f4YteZ","_score":1,"_source":{"nome":"Ovos","supermercado":"Bahamas","preco":"3.29"}}
+{"_index":"produto","_type":"type_produto","_id":"o8nga4kBtlA6u5f4Ytec","_score":1,"_source":{"nome":"Pão","supermercado":"Bahamas","preco":"3.71"}}
+{"_index":"produto","_type":"type_produto","_id":"pMnga4kBtlA6u5f4Ytee","_score":1,"_source":{"nome":"Manteiga","supermercado":"Bahamas","preco":"6.39"}}
+{"_index":"produto","_type":"type_produto","_id":"pcnga4kBtlA6u5f4Yteh","_score":1,"_source":{"nome":"Queijo","supermercado":"Bahamas","preco":"9.29"}}
+{"_index":"produto","_type":"type_produto","_id":"psnga4kBtlA6u5f4Ytej","_score":1,"_source":{"nome":"Presunto","supermercado":"Bahamas","preco":"6.24"}}
+{"_index":"produto","_type":"type_produto","_id":"p8nga4kBtlA6u5f4Ytem","_score":1,"_source":{"nome":"Frango","supermercado":"Bahamas","preco":"8.45"}}
+{"_index":"produto","_type":"type_produto","_id":"qMnga4kBtlA6u5f4Yteo","_score":1,"_source":{"nome":"Carne moída","supermercado":"Bahamas","preco":"12.06"}}
+{"_index":"produto","_type":"type_produto","_id":"qcnga4kBtlA6u5f4Yter","_score":1,"_source":{"nome":"Alface","supermercado":"Bahamas","preco":"1.24"}}
+{"_index":"produto","_type":"type_produto","_id":"qsnga4kBtlA6u5f4Yteu","_score":1,"_source":{"nome":"Tomate","supermercado":"Bahamas","preco":"2.35"}}
+{"_index":"produto","_type":"type_produto","_id":"rMnga4kBtlA6u5f4Ytew","_score":1,"_source":{"nome":"Cebola","supermercado":"Bahamas","preco":"1.14"}}
+{"_index":"produto","_type":"type_produto","_id":"rcnga4kBtlA6u5f4Ytez","_score":1,"_source":{"nome":"Batata","supermercado":"Bahamas","preco":"2.74"}}
+{"_index":"produto","_type":"type_produto","_id":"rsnga4kBtlA6u5f4Yte2","_score":1,"_source":{"nome":"Cenoura","supermercado":"Bahamas","preco":"1.68"}}
+{"_index":"produto","_type":"type_produto","_id":"r8nga4kBtlA6u5f4Yte5","_score":1,"_source":{"nome":"Banana","supermercado":"Bahamas","preco":"1.42"}}
+{"_index":"produto","_type":"type_produto","_id":"sMnga4kBtlA6u5f4Yte7","_score":1,"_source":{"nome":"Maçã","supermercado":"Bahamas","preco":"3.38"}}
+{"_index":"produto","_type":"type_produto","_id":"scnga4kBtlA6u5f4Yte-","_score":1,"_source":{"nome":"Laranja","supermercado":"Bahamas","preco":"2.15"}}
+{"_index":"produto","_type":"type_produto","_id":"ssnga4kBtlA6u5f4YtfB","_score":1,"_source":{"nome":"Mamão","supermercado":"Bahamas","preco":"1.92"}}
+{"_index":"produto","_type":"type_produto","_id":"s8nga4kBtlA6u5f4YtfD","_score":1,"_source":{"nome":"Abacaxi","supermercado":"Bahamas","preco":"4.05"}}
+{"_index":"produto","_type":"type_produto","_id":"tMnga4kBtlA6u5f4YtfG","_score":1,"_source":{"nome":"Morango","supermercado":"Bahamas","preco":"4.71"}}
+{"_index":"produto","_type":"type_produto","_id":"tcnga4kBtlA6u5f4YtfI","_score":1,"_source":{"nome":"Melancia","supermercado":"Bahamas","preco":"6.17"}}
+{"_index":"produto","_type":"type_produto","_id":"tsnga4kBtlA6u5f4YtfL","_score":1,"_source":{"nome":"Suco de laranja","supermercado":"Bahamas","preco":"3.26"}}
+{"_index":"produto","_type":"type_produto","_id":"t8nga4kBtlA6u5f4YtfO","_score":1,"_source":{"nome":"Refrigerante","supermercado":"Bahamas","preco":"3.84"}}
+{"_index":"produto","_type":"type_produto","_id":"uMnga4kBtlA6u5f4YtfQ","_score":1,"_source":{"nome":"Água mineral","supermercado":"Bahamas","preco":"1.02"}}
+{"_index":"produto","_type":"type_produto","_id":"ucnga4kBtlA6u5f4YtfT","_score":1,"_source":{"nome":"Café","supermercado":"Bahamas","preco":"5.59"}}
+{"_index":"produto","_type":"type_produto","_id":"usnga4kBtlA6u5f4YtfW","_score":1,"_source":{"nome":"Açúcar","supermercado":"Bahamas","preco":"2.04"}}
+{"_index":"produto","_type":"type_produto","_id":"u8nga4kBtlA6u5f4YtfY","_score":1,"_source":{"nome":"Sal","supermercado":"Bahamas","preco":"1.02"}}
+{"_index":"produto","_type":"type_produto","_id":"vMnga4kBtlA6u5f4Ytfb","_score":1,"_source":{"nome":"Óleo de soja","supermercado":"Bahamas","preco":"4.62"}}
+{"_index":"produto","_type":"type_produto","_id":"vcnga4kBtlA6u5f4Ytfe","_score":1,"_source":{"nome":"Farinha de trigo","supermercado":"Bahamas","preco":"2.6"}}
+{"_index":"produto","_type":"type_produto","_id":"vsnga4kBtlA6u5f4Ytfg","_score":1,"_source":{"nome":"Fermento em pó","supermercado":"Bahamas","preco":"1.93"}}
+{"_index":"produto","_type":"type_produto","_id":"v8nga4kBtlA6u5f4Ytfj","_score":1,"_source":{"nome":"Biscoitos","supermercado":"Bahamas","preco":"3.07"}}
+{"_index":"produto","_type":"type_produto","_id":"wMnga4kBtlA6u5f4Ytfl","_score":1,"_source":{"nome":"Chocolate","supermercado":"Bahamas","preco":"5.34"}}
+{"_index":"produto","_type":"type_produto","_id":"wcnga4kBtlA6u5f4Ytfo","_score":1,"_source":{"nome":"Sorvete","supermercado":"Bahamas","preco":"6.35"}}
+{"_index":"produto","_type":"type_produto","_id":"wsnga4kBtlA6u5f4Ytfr","_score":1,"_source":{"nome":"Cerveja","supermercado":"Bahamas","preco":"3.14"}}
+{"_index":"produto","_type":"type_produto","_id":"w8nga4kBtlA6u5f4Ytft","_score":1,"_source":{"nome":"Vinho","supermercado":"Bahamas","preco":"10.79"}}
+{"_index":"produto","_type":"type_produto","_id":"xMnga4kBtlA6u5f4Ytfw","_score":1,"_source":{"nome":"Whisky","supermercado":"Bahamas","preco":"27.89"}}
+{"_index":"produto","_type":"type_produto","_id":"xcnga4kBtlA6u5f4Ytfy","_score":1,"_source":{"nome":"Leite condensado","supermercado":"Bahamas","preco":"3.83"}}
+{"_index":"produto","_type":"type_produto","_id":"xsnga4kBtlA6u5f4Ytf2","_score":1,"_source":{"nome":"Creme de leite","supermercado":"Bahamas","preco":"2.88"}}
+{"_index":"produto","_type":"type_produto","_id":"x8nga4kBtlA6u5f4Ytf4","_score":1,"_source":{"nome":"Achocolatado","supermercado":"Bahamas","preco":"4.25"}}
+{"_index":"produto","_type":"type_produto","_id":"yMnga4kBtlA6u5f4Ytf7","_score":1,"_source":{"nome":"Iogurte","supermercado":"Bahamas","preco":"2.62"}}
+{"_index":"produto","_type":"type_produto","_id":"ycnga4kBtlA6u5f4Ytf9","_score":1,"_source":{"nome":"Doce de leite","supermercado":"Bahamas","preco":"4.11"}}
+{"_index":"produto","_type":"type_produto","_id":"ysnga4kBtlA6u5f4Y9cA","_score":1,"_source":{"nome":"Biscoito recheado","supermercado":"Bahamas","preco":"2.93"}}
+{"_index":"produto","_type":"type_produto","_id":"y8nga4kBtlA6u5f4Y9cC","_score":1,"_source":{"nome":"Queijo ralado","supermercado":"Bahamas","preco":"5.03"}}
+{"_index":"produto","_type":"type_produto","_id":"zMnga4kBtlA6u5f4Y9cF","_score":1,"_source":{"nome":"Molho de tomate","supermercado":"Bahamas","preco":"2.29"}}
+{"_index":"produto","_type":"type_produto","_id":"zcnga4kBtlA6u5f4Y9cH","_score":1,"_source":{"nome":"Maionese","supermercado":"Bahamas","preco":"3.53"}}
+{"_index":"produto","_type":"type_produto","_id":"zsnga4kBtlA6u5f4Y9cK","_score":1,"_source":{"nome":"Ketchup","supermercado":"Bahamas","preco":"1.69"}}
+{"_index":"produto","_type":"type_produto","_id":"z8nga4kBtlA6u5f4Y9cM","_score":1,"_source":{"nome":"Mostarda","supermercado":"Bahamas","preco":"1.87"}}
+{"_index":"produto","_type":"type_produto","_id":"0Mnga4kBtlA6u5f4Y9cP","_score":1,"_source":{"nome":"Catchup","supermercado":"Bahamas","preco":"1.94"}}
+{"_index":"produto","_type":"type_produto","_id":"0cnga4kBtlA6u5f4Y9cS","_score":1,"_source":{"nome":"Geléia","supermercado":"Bahamas","preco":"3.08"}}
+{"_index":"produto","_type":"type_produto","_id":"0snga4kBtlA6u5f4Y9cU","_score":1,"_source":{"nome":"Margarina","supermercado":"Bahamas","preco":"1.81"}}
+{"_index":"produto","_type":"type_produto","_id":"08nga4kBtlA6u5f4Y9cX","_score":1,"_source":{"nome":"Sabonete","supermercado":"Bahamas","preco":"1.12"}}
+{"_index":"produto","_type":"type_produto","_id":"1Mnga4kBtlA6u5f4Y9cZ","_score":1,"_source":{"nome":"Shampoo","supermercado":"Bahamas","preco":"4.84"}}
+{"_index":"produto","_type":"type_produto","_id":"1cnga4kBtlA6u5f4Y9cc","_score":1,"_source":{"nome":"Condicionador","supermercado":"Bahamas","preco":"4.75"}}
+{"_index":"produto","_type":"type_produto","_id":"1snga4kBtlA6u5f4Y9ce","_score":1,"_source":{"nome":"Escova de dentes","supermercado":"Bahamas","preco":"2.34"}}
+{"_index":"produto","_type":"type_produto","_id":"18nga4kBtlA6u5f4Y9ch","_score":1,"_source":{"nome":"Pasta de dente","supermercado":"Bahamas","preco":"2.02"}}
+{"_index":"produto","_type":"type_produto","_id":"2Mnga4kBtlA6u5f4Y9ck","_score":1,"_source":{"nome":"Papel higiênico","supermercado":"Bahamas","preco":"3.75"}}
+{"_index":"produto","_type":"type_produto","_id":"2cnga4kBtlA6u5f4Y9cn","_score":1,"_source":{"nome":"Sabão em pó","supermercado":"Bahamas","preco":"5.63"}}
+{"_index":"produto","_type":"type_produto","_id":"2snga4kBtlA6u5f4Y9cp","_score":1,"_source":{"nome":"Amaciante de roupas","supermercado":"Bahamas","preco":"3.76"}}
+{"_index":"produto","_type":"type_produto","_id":"28nga4kBtlA6u5f4Y9cs","_score":1,"_source":{"nome":"Detergente","supermercado":"Bahamas","preco":"1.85"}}
+{"_index":"produto","_type":"type_produto","_id":"3Mnga4kBtlA6u5f4Y9cu","_score":1,"_source":{"nome":"Esponja de cozinha","supermercado":"Bahamas","preco":"1.05"}}
+{"_index":"produto","_type":"type_produto","_id":"3cnga4kBtlA6u5f4Y9cx","_score":1,"_source":{"nome":"Desodorante","supermercado":"Bahamas","preco":"4.62"}}
+{"_index":"produto","_type":"type_produto","_id":"3snga4kBtlA6u5f4Y9cz","_score":1,"_source":{"nome":"Perfume","supermercado":"Bahamas","preco":"23.56"}}
+{"_index":"produto","_type":"type_produto","_id":"38nga4kBtlA6u5f4Y9c2","_score":1,"_source":{"nome":"Talco","supermercado":"Bahamas","preco":"2.6"}}
+{"_index":"produto","_type":"type_produto","_id":"4Mnga4kBtlA6u5f4Y9c5","_score":1,"_source":{"nome":"Lâmina de barbear","supermercado":"Bahamas","preco":"4.06"}}
+{"_index":"produto","_type":"type_produto","_id":"4cnga4kBtlA6u5f4Y9c7","_score":1,"_source":{"nome":"Fio dental","supermercado":"Bahamas","preco":"1.82"}}
+{"_index":"produto","_type":"type_produto","_id":"4snga4kBtlA6u5f4Y9c-","_score":1,"_source":{"nome":"Algodão","supermercado":"Bahamas","preco":"0.93"}}
+{"_index":"produto","_type":"type_produto","_id":"48nga4kBtlA6u5f4Y9dA","_score":1,"_source":{"nome":"Pilhas","supermercado":"Bahamas","preco":"2.96"}}
+{"_index":"produto","_type":"type_produto","_id":"5Mnga4kBtlA6u5f4Y9dD","_score":1,"_source":{"nome":"Lâmpadas","supermercado":"Bahamas","preco":"3.65"}}
+{"_index":"produto","_type":"type_produto","_id":"5cnga4kBtlA6u5f4Y9dF","_score":1,"_source":{"nome":"Vela","supermercado":"Bahamas","preco":"0.91"}}
+{"_index":"produto","_type":"type_produto","_id":"5snga4kBtlA6u5f4Y9dI","_score":1,"_source":{"nome":"Fósforos","supermercado":"Bahamas","preco":"0.96"}}
+{"_index":"produto","_type":"type_produto","_id":"58nga4kBtlA6u5f4Y9dK","_score":1,"_source":{"nome":"Enlatados","supermercado":"Bahamas","preco":"3.76"}}
+{"_index":"produto","_type":"type_produto","_id":"6Mnga4kBtlA6u5f4Y9dN","_score":1,"_source":{"nome":"Salgadinhos","supermercado":"Bahamas","preco":"4.64"}}
+{"_index":"produto","_type":"type_produto","_id":"6cnga4kBtlA6u5f4Y9dP","_score":1,"_source":{"nome":"Pipoca","supermercado":"Bahamas","preco":"1.91"}}
+{"_index":"produto","_type":"type_produto","_id":"6snga4kBtlA6u5f4Y9dT","_score":1,"_source":{"nome":"Queijo coalho","supermercado":"Bahamas","preco":"6.67"}}
+{"_index":"produto","_type":"type_produto","_id":"68nga4kBtlA6u5f4Y9dW","_score":1,"_source":{"nome":"Mortadela","supermercado":"Bahamas","preco":"5.69"}}
+{"_index":"produto","_type":"type_produto","_id":"7Mnga4kBtlA6u5f4Y9dZ","_score":1,"_source":{"nome":"Salsicha","supermercado":"Bahamas","preco":"3.82"}}
+{"_index":"produto","_type":"type_produto","_id":"7cnga4kBtlA6u5f4Y9dc","_score":1,"_source":{"nome":"Linguiça","supermercado":"Bahamas","preco":"4.97"}}
+{"_index":"produto","_type":"type_produto","_id":"7snga4kBtlA6u5f4Y9df","_score":1,"_source":{"nome":"Salame","supermercado":"Bahamas","preco":"7.5"}}
+{"_index":"produto","_type":"type_produto","_id":"78nga4kBtlA6u5f4Y9dh","_score":1,"_source":{"nome":"Peito de peru","supermercado":"Bahamas","preco":"8.69"}}
+{"_index":"produto","_type":"type_produto","_id":"8Mnga4kBtlA6u5f4Y9dk","_score":1,"_source":{"nome":"Picanha","supermercado":"Bahamas","preco":"17.2"}}
+{"_index":"produto","_type":"type_produto","_id":"8cnga4kBtlA6u5f4Y9dn","_score":1,"_source":{"nome":"Filé de peixe","supermercado":"Bahamas","preco":"11.59"}}
+{"_index":"produto","_type":"type_produto","_id":"8snga4kBtlA6u5f4Y9dq","_score":1,"_source":{"nome":"Atum","supermercado":"Bahamas","preco":"5.31"}}
+{"_index":"produto","_type":"type_produto","_id":"88nga4kBtlA6u5f4Y9ds","_score":1,"_source":{"nome":"Salmão","supermercado":"Bahamas","preco":"13.14"}}
+{"_index":"produto","_type":"type_produto","_id":"9Mnga4kBtlA6u5f4Y9dv","_score":1,"_source":{"nome":"Camarão","supermercado":"Bahamas","preco":"14.05"}}
+{"_index":"produto","_type":"type_produto","_id":"9cnga4kBtlA6u5f4Y9dx","_score":1,"_source":{"nome":"Ostras","supermercado":"Bahamas","preco":"16.79"}}
+{"_index":"produto","_type":"type_produto","_id":"9snga4kBtlA6u5f4Y9d0","_score":1,"_source":{"nome":"Amêndoas","supermercado":"Bahamas","preco":"7.29"}}
+{"_index":"produto","_type":"type_produto","_id":"98nga4kBtlA6u5f4Y9d3","_score":1,"_source":{"nome":"Castanhas","supermercado":"Bahamas","preco":"8.78"}}
+{"_index":"produto","_type":"type_produto","_id":"-Mnga4kBtlA6u5f4Y9d6","_score":1,"_source":{"nome":"Nozes","supermercado":"Bahamas","preco":"8.05"}}
+{"_index":"produto","_type":"type_produto","_id":"-cnga4kBtlA6u5f4Y9d9","_score":1,"_source":{"nome":"Pistaches","supermercado":"Bahamas","preco":"10.89"}}
+{"_index":"produto","_type":"type_produto","_id":"-snga4kBtlA6u5f4Y9eA","_score":1,"_source":{"nome":"Suco em pó","supermercado":"Bahamas","preco":"1.55"}}
+{"_index":"produto","_type":"type_produto","_id":"-8nga4kBtlA6u5f4Y9eD","_score":1,"_source":{"nome":"Chá","supermercado":"Bahamas","preco":"3.14"}}
+{"_index":"produto","_type":"type_produto","_id":"_Mnga4kBtlA6u5f4Y9eG","_score":1,"_source":{"nome":"Massa de pastel","supermercado":"Bahamas","preco":"2.18"}}
+{"_index":"produto","_type":"type_produto","_id":"_cnga4kBtlA6u5f4Y9eI","_score":1,"_source":{"nome":"Molho de pimenta","supermercado":"Bahamas","preco":"1.58"}}
+{"_index":"produto","_type":"type_produto","_id":"_snga4kBtlA6u5f4Y9eL","_score":1,"_source":{"nome":"Batata chips","supermercado":"Bahamas","preco":"3.29"}}
+{"_index":"produto","_type":"type_produto","_id":"_8nga4kBtlA6u5f4Y9eO","_score":1,"_source":{"nome":"Cereais","supermercado":"Bahamas","preco":"5.77"}}
+{"_index":"produto","_type":"type_produto","_id":"AMnga4kBtlA6u5f4Y9iQ","_score":1,"_source":{"nome":"Granola","supermercado":"Bahamas","preco":"4.8"}}
+{"_index":"produto","_type":"type_produto","_id":"Acnga4kBtlA6u5f4Y9iT","_score":1,"_source":{"nome":"Barra de cereal","supermercado":"Bahamas","preco":"1.78"}}
+{"_index":"produto","_type":"type_produto","_id":"Asnga4kBtlA6u5f4Y9iV","_score":1,"_source":{"nome":"Geleia de mocotó","supermercado":"Bahamas","preco":"2.68"}}
+{"_index":"produto","_type":"type_produto","_id":"A8nga4kBtlA6u5f4Y9iY","_score":1,"_source":{"nome":"Feijão preto","supermercado":"Bahamas","preco":"3.68"}}
+{"_index":"produto","_type":"type_produto","_id":"BMnga4kBtlA6u5f4Y9ia","_score":1,"_source":{"nome":"Feijão carioca","supermercado":"Bahamas","preco":"3.55"}}
+{"_index":"produto","_type":"type_produto","_id":"Bcnga4kBtlA6u5f4Y9id","_score":1,"_source":{"nome":"Milho enlatado","supermercado":"Bahamas","preco":"2.66"}}
+{"_index":"produto","_type":"type_produto","_id":"Bsnga4kBtlA6u5f4Y9if","_score":1,"_source":{"nome":"Ervilha enlatada","supermercado":"Bahamas","preco":"2.38"}}
+{"_index":"produto","_type":"type_produto","_id":"B8nga4kBtlA6u5f4Y9ii","_score":1,"_source":{"nome":"Lentilha enlatada","supermercado":"Bahamas","preco":"2.41"}}
+{"_index":"produto","_type":"type_produto","_id":"CMnga4kBtlA6u5f4Y9il","_score":1,"_source":{"nome":"Amido de milho","supermercado":"Bahamas","preco":"2.51"}}
+{"_index":"produto","_type":"type_produto","_id":"Ccnga4kBtlA6u5f4Y9in","_score":1,"_source":{"nome":"Farinha de mandioca","supermercado":"Bahamas","preco":"2.24"}}
+{"_index":"produto","_type":"type_produto","_id":"Csnga4kBtlA6u5f4Y9iq","_score":1,"_source":{"nome":"Farofa pronta","supermercado":"Bahamas","preco":"3.38"}}
+{"_index":"produto","_type":"type_produto","_id":"C8nga4kBtlA6u5f4Y9is","_score":1,"_source":{"nome":"Molho shoyu","supermercado":"Bahamas","preco":"3.18"}}
+{"_index":"produto","_type":"type_produto","_id":"DMnga4kBtlA6u5f4Y9iv","_score":1,"_source":{"nome":"Azeite de oliva","supermercado":"Bahamas","preco":"5.74"}}
+{"_index":"produto","_type":"type_produto","_id":"Dcnga4kBtlA6u5f4Y9ix","_score":1,"_source":{"nome":"Vinagre","supermercado":"Bahamas","preco":"1.34"}}
+{"_index":"produto","_type":"type_produto","_id":"Dsnga4kBtlA6u5f4Y9i0","_score":1,"_source":{"nome":"Azeitonas","supermercado":"Bahamas","preco":"3.23"}}
+{"_index":"produto","_type":"type_produto","_id":"D8nga4kBtlA6u5f4Y9i2","_score":1,"_source":{"nome":"Palmito","supermercado":"Bahamas","preco":"4.58"}}
+{"_index":"produto","_type":"type_produto","_id":"EMnga4kBtlA6u5f4Y9i5","_score":1,"_source":{"nome":"Pepino em conserva","supermercado":"Bahamas","preco":"2.43"}}
+{"_index":"produto","_type":"type_produto","_id":"Ecnga4kBtlA6u5f4Y9i8","_score":1,"_source":{"nome":"Abobrinha","supermercado":"Bahamas","preco":"1.36"}}
+{"_index":"produto","_type":"type_produto","_id":"Esnga4kBtlA6u5f4Y9i-","_score":1,"_source":{"nome":"Berinjela","supermercado":"Bahamas","preco":"1.77"}}
+{"_index":"produto","_type":"type_produto","_id":"E8nga4kBtlA6u5f4Y9jB","_score":1,"_source":{"nome":"Repolho","supermercado":"Bahamas","preco":"0.92"}}
+{"_index":"produto","_type":"type_produto","_id":"FMnga4kBtlA6u5f4Y9jE","_score":1,"_source":{"nome":"Milho verde","supermercado":"Bahamas","preco":"2.58"}}
+{"_index":"produto","_type":"type_produto","_id":"Fcnga4kBtlA6u5f4Y9jH","_score":1,"_source":{"nome":"Couve-flor","supermercado":"Bahamas","preco":"3.41"}}
+{"_index":"produto","_type":"type_produto","_id":"Fsnga4kBtlA6u5f4Y9jJ","_score":1,"_source":{"nome":"Brócolis","supermercado":"Bahamas","preco":"3.39"}}
+{"_index":"produto","_type":"type_produto","_id":"F8nga4kBtlA6u5f4Y9jM","_score":1,"_source":{"nome":"Alho","supermercado":"Bahamas","preco":"1.25"}}
+{"_index":"produto","_type":"type_produto","_id":"GMnga4kBtlA6u5f4Y9jO","_score":1,"_source":{"nome":"Salsa","supermercado":"Bahamas","preco":"0.86"}}
+{"_index":"produto","_type":"type_produto","_id":"Gcnga4kBtlA6u5f4Y9jS","_score":1,"_source":{"nome":"Hortelã","supermercado":"Bahamas","preco":"0.98"}}
+{"_index":"produto","_type":"type_produto","_id":"Gsnga4kBtlA6u5f4Y9jU","_score":1,"_source":{"nome":"Manjericão","supermercado":"Bahamas","preco":"1.62"}}
+{"_index":"produto","_type":"type_produto","_id":"G8nga4kBtlA6u5f4Y9jX","_score":1,"_source":{"nome":"Alecrim","supermercado":"Bahamas","preco":"0.88"}}
+{"_index":"produto","_type":"type_produto","_id":"HMnga4kBtlA6u5f4Y9ja","_score":1,"_source":{"nome":"Salsinha","supermercado":"Bahamas","preco":"1.03"}}
+{"_index":"produto","_type":"type_produto","_id":"Hcnga4kBtlA6u5f4Y9jc","_score":1,"_source":{"nome":"Orégano","supermercado":"Bahamas","preco":"1.58"}}
+{"_index":"produto","_type":"type_produto","_id":"Hsnga4kBtlA6u5f4Y9jf","_score":1,"_source":{"nome":"Pimenta-do-reino","supermercado":"Bahamas","preco":"2.02"}}
+{"_index":"produto","_type":"type_produto","_id":"H8nga4kBtlA6u5f4Y9jh","_score":1,"_source":{"nome":"Pimenta vermelha","supermercado":"Bahamas","preco":"2.32"}}
+{"_index":"produto","_type":"type_produto","_id":"IMnga4kBtlA6u5f4Y9jk","_score":1,"_source":{"nome":"Mel","supermercado":"Bahamas","preco":"3.89"}}
+{"_index":"produto","_type":"type_produto","_id":"Icnga4kBtlA6u5f4Y9jn","_score":1,"_source":{"nome":"Chocolate em pó","supermercado":"Bahamas","preco":"3.01"}}
+{"_index":"produto","_type":"type_produto","_id":"Isnga4kBtlA6u5f4Y9jp","_score":1,"_source":{"nome":"Gelatina","supermercado":"Bahamas","preco":"0.94"}}
+{"_index":"produto","_type":"type_produto","_id":"I8nga4kBtlA6u5f4Y9js","_score":1,"_source":{"nome":"Leite em pó","supermercado":"Bahamas","preco":"5.03"}}
+{"_index":"produto","_type":"type_produto","_id":"JMnga4kBtlA6u5f4Y9ju","_score":1,"_source":{"nome":"Cuscuz","supermercado":"Bahamas","preco":"2.39"}}
+{"_index":"produto","_type":"type_produto","_id":"Jcnga4kBtlA6u5f4Y9jx","_score":1,"_source":{"nome":"Iogurte de frutas","supermercado":"Bahamas","preco":"2.33"}}
+{"_index":"produto","_type":"type_produto","_id":"Jsnga4kBtlA6u5f4Y9jz","_score":1,"_source":{"nome":"Chantilly","supermercado":"Bahamas","preco":"3.17"}}
+{"_index":"produto","_type":"type_produto","_id":"J8nga4kBtlA6u5f4Y9j2","_score":1,"_source":{"nome":"Pudim","supermercado":"Bahamas","preco":"2.55"}}
+{"_index":"produto","_type":"type_produto","_id":"KMnga4kBtlA6u5f4Y9j5","_score":1,"_source":{"nome":"Gelatina em pó","supermercado":"Bahamas","preco":"0.97"}}
+{"_index":"produto","_type":"type_produto","_id":"Kcnga4kBtlA6u5f4Y9j7","_score":1,"_source":{"nome":"Bala","supermercado":"Bahamas","preco":"0.55"}}
+{"_index":"produto","_type":"type_produto","_id":"Ksnga4kBtlA6u5f4Y9j-","_score":1,"_source":{"nome":"Pipoca doce","supermercado":"Bahamas","preco":"1.77"}}
+{"_index":"produto","_type":"type_produto","_id":"K8nga4kBtlA6u5f4ZNgB","_score":1,"_source":{"nome":"Amendoim","supermercado":"Bahamas","preco":"1.41"}}
+{"_index":"produto","_type":"type_produto","_id":"LMnga4kBtlA6u5f4ZNgF","_score":1,"_source":{"nome":"Salgadinho de milho","supermercado":"Bahamas","preco":"3.81"}}
+{"_index":"produto","_type":"type_produto","_id":"Lcnga4kBtlA6u5f4ZNgI","_score":1,"_source":{"nome":"Salgadinho de queijo","supermercado":"Bahamas","preco":"3.5"}}
+{"_index":"produto","_type":"type_produto","_id":"Lsnga4kBtlA6u5f4ZNgK","_score":1,"_source":{"nome":"Salgadinho de cebola","supermercado":"Bahamas","preco":"3.58"}}
+{"_index":"produto","_type":"type_produto","_id":"L8nga4kBtlA6u5f4ZNgN","_score":1,"_source":{"nome":"Salgadinho de churrasco","supermercado":"Bahamas","preco":"3.77"}}
+{"_index":"produto","_type":"type_produto","_id":"MMnga4kBtlA6u5f4ZNgQ","_score":1,"_source":{"nome":"Salgadinho de bacon","supermercado":"Bahamas","preco":"3.22"}}
+{"_index":"produto","_type":"type_produto","_id":"Mcnga4kBtlA6u5f4ZNgT","_score":1,"_source":{"nome":"Salgadinho de pimenta","supermercado":"Bahamas","preco":"3.33"}}
+{"_index":"produto","_type":"type_produto","_id":"Msnga4kBtlA6u5f4ZNgV","_score":1,"_source":{"nome":"Salgadinho de limão","supermercado":"Bahamas","preco":"3.59"}}
+{"_index":"produto","_type":"type_produto","_id":"M8nga4kBtlA6u5f4ZNgX","_score":1,"_source":{"nome":"Salgadinho de salsa","supermercado":"Bahamas","preco":"3.29"}}
+{"_index":"produto","_type":"type_produto","_id":"NMnga4kBtlA6u5f4ZNga","_score":1,"_source":{"nome":"Salgadinho de alho","supermercado":"Bahamas","preco":"3.45"}}
+{"_index":"produto","_type":"type_produto","_id":"Ncnga4kBtlA6u5f4ZNgd","_score":1,"_source":{"nome":"Salgadinho de ervas","supermercado":"Bahamas","preco":"3.31"}}
+{"_index":"produto","_type":"type_produto","_id":"Nsnga4kBtlA6u5f4ZNgf","_score":1,"_source":{"nome":"Salgadinho de queijo e cebola","supermercado":"Bahamas","preco":"3.47"}}
+{"_index":"produto","_type":"type_produto","_id":"N8nga4kBtlA6u5f4ZNgi","_score":1,"_source":{"nome":"Salgadinho de presunto e queijo","supermercado":"Bahamas","preco":"4.43"}}
+{"_index":"produto","_type":"type_produto","_id":"OMnga4kBtlA6u5f4ZNgk","_score":1,"_source":{"nome":"Arroz","supermercado":"APAS","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ocnga4kBtlA6u5f4ZNgn","_score":1,"_source":{"nome":"Feijão","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Osnga4kBtlA6u5f4ZNgp","_score":1,"_source":{"nome":"Macarrão","supermercado":"APAS","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"O8nga4kBtlA6u5f4ZNgs","_score":1,"_source":{"nome":"Leite","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"PMnga4kBtlA6u5f4ZNgu","_score":1,"_source":{"nome":"Ovos","supermercado":"APAS","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Pcnga4kBtlA6u5f4ZNgx","_score":1,"_source":{"nome":"Pão","supermercado":"APAS","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Psnga4kBtlA6u5f4ZNg0","_score":1,"_source":{"nome":"Manteiga","supermercado":"APAS","preco":"6.99"}}
+{"_index":"produto","_type":"type_produto","_id":"P8nga4kBtlA6u5f4ZNg2","_score":1,"_source":{"nome":"Queijo","supermercado":"APAS","preco":"9.49"}}
+{"_index":"produto","_type":"type_produto","_id":"QMnga4kBtlA6u5f4ZNg5","_score":1,"_source":{"nome":"Presunto","supermercado":"APAS","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Qcnga4kBtlA6u5f4ZNg7","_score":1,"_source":{"nome":"Frango","supermercado":"APAS","preco":"8.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Qsnga4kBtlA6u5f4ZNg-","_score":1,"_source":{"nome":"Carne moída","supermercado":"APAS","preco":"12.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Q8nga4kBtlA6u5f4ZNhB","_score":1,"_source":{"nome":"Alface","supermercado":"APAS","preco":"1.39"}}
+{"_index":"produto","_type":"type_produto","_id":"RMnga4kBtlA6u5f4ZNhD","_score":1,"_source":{"nome":"Tomate","supermercado":"APAS","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"Rcnga4kBtlA6u5f4ZNhG","_score":1,"_source":{"nome":"Cebola","supermercado":"APAS","preco":"1.09"}}
+{"_index":"produto","_type":"type_produto","_id":"Rsnga4kBtlA6u5f4ZNhI","_score":1,"_source":{"nome":"Batata","supermercado":"APAS","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"R8nga4kBtlA6u5f4ZNhL","_score":1,"_source":{"nome":"Cenoura","supermercado":"APAS","preco":"1.59"}}
+{"_index":"produto","_type":"type_produto","_id":"SMnga4kBtlA6u5f4ZNhN","_score":1,"_source":{"nome":"Banana","supermercado":"APAS","preco":"1.59"}}
+{"_index":"produto","_type":"type_produto","_id":"Scnga4kBtlA6u5f4ZNhQ","_score":1,"_source":{"nome":"Maçã","supermercado":"APAS","preco":"3.09"}}
+{"_index":"produto","_type":"type_produto","_id":"Ssnga4kBtlA6u5f4ZNhT","_score":1,"_source":{"nome":"Laranja","supermercado":"APAS","preco":"2.09"}}
+{"_index":"produto","_type":"type_produto","_id":"S8nga4kBtlA6u5f4ZNhV","_score":1,"_source":{"nome":"Mamão","supermercado":"APAS","preco":"1.69"}}
+{"_index":"produto","_type":"type_produto","_id":"TMnga4kBtlA6u5f4ZNhY","_score":1,"_source":{"nome":"Abacaxi","supermercado":"APAS","preco":"4.29"}}
+{"_index":"produto","_type":"type_produto","_id":"Tcnga4kBtlA6u5f4ZNha","_score":1,"_source":{"nome":"Morango","supermercado":"APAS","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Tsnga4kBtlA6u5f4ZNhd","_score":1,"_source":{"nome":"Melancia","supermercado":"APAS","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"T8nga4kBtlA6u5f4ZNhg","_score":1,"_source":{"nome":"Suco de laranja","supermercado":"APAS","preco":"3.29"}}
+{"_index":"produto","_type":"type_produto","_id":"UMnga4kBtlA6u5f4ZNhi","_score":1,"_source":{"nome":"Refrigerante","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Ucnga4kBtlA6u5f4ZNhl","_score":1,"_source":{"nome":"Água mineral","supermercado":"APAS","preco":"0.89"}}
+{"_index":"produto","_type":"type_produto","_id":"Usnga4kBtlA6u5f4ZNhn","_score":1,"_source":{"nome":"Café","supermercado":"APAS","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"U8nga4kBtlA6u5f4ZNhq","_score":1,"_source":{"nome":"Açúcar","supermercado":"APAS","preco":"2.09"}}
+{"_index":"produto","_type":"type_produto","_id":"VMnga4kBtlA6u5f4ZNht","_score":1,"_source":{"nome":"Sal","supermercado":"APAS","preco":"0.79"}}
+{"_index":"produto","_type":"type_produto","_id":"Vcnga4kBtlA6u5f4ZNhv","_score":1,"_source":{"nome":"Óleo de soja","supermercado":"APAS","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Vsnga4kBtlA6u5f4ZNhy","_score":1,"_source":{"nome":"Farinha de trigo","supermercado":"APAS","preco":"2.29"}}
+{"_index":"produto","_type":"type_produto","_id":"V8nga4kBtlA6u5f4ZNh0","_score":1,"_source":{"nome":"Fermento em pó","supermercado":"APAS","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"WMnga4kBtlA6u5f4ZNh3","_score":1,"_source":{"nome":"Biscoitos","supermercado":"APAS","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Wcnga4kBtlA6u5f4ZNh6","_score":1,"_source":{"nome":"Chocolate","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Wsnga4kBtlA6u5f4ZNh8","_score":1,"_source":{"nome":"Sorvete","supermercado":"APAS","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"W8nga4kBtlA6u5f4ZNh_","_score":1,"_source":{"nome":"Cerveja","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"XMnga4kBtlA6u5f4ZNiB","_score":1,"_source":{"nome":"Vinho","supermercado":"APAS","preco":"9.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Xcnga4kBtlA6u5f4ZNiE","_score":1,"_source":{"nome":"Whisky","supermercado":"APAS","preco":"28.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Xsnga4kBtlA6u5f4ZNiI","_score":1,"_source":{"nome":"Leite condensado","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"X8nga4kBtlA6u5f4ZNiK","_score":1,"_source":{"nome":"Creme de leite","supermercado":"APAS","preco":"2.49"}}
+{"_index":"produto","_type":"type_produto","_id":"YMnga4kBtlA6u5f4ZNiN","_score":1,"_source":{"nome":"Achocolatado","supermercado":"APAS","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Ycnga4kBtlA6u5f4ZNiP","_score":1,"_source":{"nome":"Iogurte","supermercado":"APAS","preco":"2.29"}}
+{"_index":"produto","_type":"type_produto","_id":"Ysnga4kBtlA6u5f4ZNiS","_score":1,"_source":{"nome":"Doce de leite","supermercado":"APAS","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"Y8nga4kBtlA6u5f4ZNiU","_score":1,"_source":{"nome":"Biscoito recheado","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"ZMnga4kBtlA6u5f4ZNiX","_score":1,"_source":{"nome":"Queijo ralado","supermercado":"APAS","preco":"4.79"}}
+{"_index":"produto","_type":"type_produto","_id":"Zcnga4kBtlA6u5f4ZNia","_score":1,"_source":{"nome":"Molho de tomate","supermercado":"APAS","preco":"2.29"}}
+{"_index":"produto","_type":"type_produto","_id":"Zsnga4kBtlA6u5f4ZNic","_score":1,"_source":{"nome":"Maionese","supermercado":"APAS","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"Z8nga4kBtlA6u5f4ZNif","_score":1,"_source":{"nome":"Ketchup","supermercado":"APAS","preco":"2.19"}}
+{"_index":"produto","_type":"type_produto","_id":"aMnga4kBtlA6u5f4ZNih","_score":1,"_source":{"nome":"Mostarda","supermercado":"APAS","preco":"2.19"}}
+{"_index":"produto","_type":"type_produto","_id":"acnga4kBtlA6u5f4ZNik","_score":1,"_source":{"nome":"Catchup","supermercado":"APAS","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"asnga4kBtlA6u5f4ZNin","_score":1,"_source":{"nome":"Geléia","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"a8nga4kBtlA6u5f4ZNiw","_score":1,"_source":{"nome":"Margarina","supermercado":"APAS","preco":"2.19"}}
+{"_index":"produto","_type":"type_produto","_id":"bMnga4kBtlA6u5f4ZNiy","_score":1,"_source":{"nome":"Sabonete","supermercado":"APAS","preco":"0.89"}}
+{"_index":"produto","_type":"type_produto","_id":"bcnga4kBtlA6u5f4ZNi1","_score":1,"_source":{"nome":"Shampoo","supermercado":"APAS","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"bsnga4kBtlA6u5f4ZNi4","_score":1,"_source":{"nome":"Condicionador","supermercado":"APAS","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"b8nga4kBtlA6u5f4ZNi6","_score":1,"_source":{"nome":"Escova de dentes","supermercado":"APAS","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"cMnga4kBtlA6u5f4ZNi9","_score":1,"_source":{"nome":"Pasta de dente","supermercado":"APAS","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"ccnga4kBtlA6u5f4ZNjA","_score":1,"_source":{"nome":"Papel higiênico","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"csnga4kBtlA6u5f4ZNjD","_score":1,"_source":{"nome":"Sabão em pó","supermercado":"APAS","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"c8nga4kBtlA6u5f4ZNjF","_score":1,"_source":{"nome":"Amaciante de roupas","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"dMnga4kBtlA6u5f4ZNjI","_score":1,"_source":{"nome":"Detergente","supermercado":"APAS","preco":"2.19"}}
+{"_index":"produto","_type":"type_produto","_id":"dcnga4kBtlA6u5f4ZNjK","_score":1,"_source":{"nome":"Esponja de cozinha","supermercado":"APAS","preco":"0.89"}}
+{"_index":"produto","_type":"type_produto","_id":"dsnga4kBtlA6u5f4ZNjN","_score":1,"_source":{"nome":"Desodorante","supermercado":"APAS","preco":"4.99"}}
+{"_index":"produto","_type":"type_produto","_id":"d8nga4kBtlA6u5f4ZNjQ","_score":1,"_source":{"nome":"Perfume","supermercado":"APAS","preco":"23.99"}}
+{"_index":"produto","_type":"type_produto","_id":"eMnga4kBtlA6u5f4ZNjS","_score":1,"_source":{"nome":"Talco","supermercado":"APAS","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"ecnga4kBtlA6u5f4ZNjV","_score":1,"_source":{"nome":"Lâmina de barbear","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"esnga4kBtlA6u5f4ZNjX","_score":1,"_source":{"nome":"Fio dental","supermercado":"APAS","preco":"2.19"}}
+{"_index":"produto","_type":"type_produto","_id":"e8nga4kBtlA6u5f4ZNja","_score":1,"_source":{"nome":"Algodão","supermercado":"APAS","preco":"0.89"}}
+{"_index":"produto","_type":"type_produto","_id":"fMnga4kBtlA6u5f4ZNjd","_score":1,"_source":{"nome":"Pilhas","supermercado":"APAS","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"fcnga4kBtlA6u5f4ZNjg","_score":1,"_source":{"nome":"Lâmpadas","supermercado":"APAS","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"fsnga4kBtlA6u5f4ZNji","_score":1,"_source":{"nome":"Vela","supermercado":"APAS","preco":"0.89"}}
+{"_index":"produto","_type":"type_produto","_id":"f8nga4kBtlA6u5f4ZNjl","_score":1,"_source":{"nome":"Fósforos","supermercado":"APAS","preco":"0.89"}}
+{"_index":"produto","_type":"type_produto","_id":"gMnga4kBtlA6u5f4ZNjn","_score":1,"_source":{"nome":"Enlatados","supermercado":"APAS","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"gcnga4kBtlA6u5f4ZNjq","_score":1,"_source":{"nome":"Salgadinhos","supermercado":"APAS","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"gsnga4kBtlA6u5f4ZNjs","_score":1,"_source":{"nome":"Pipoca","supermercado":"APAS","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"g8nga4kBtlA6u5f4ZNjv","_score":1,"_source":{"nome":"Queijo coalho","supermercado":"APAS","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"hMnga4kBtlA6u5f4ZNjy","_score":1,"_source":{"nome":"Mortadela","supermercado":"APAS","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"hcnga4kBtlA6u5f4ZNj0","_score":1,"_source":{"nome":"Salsicha","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"hsnga4kBtlA6u5f4ZNj3","_score":1,"_source":{"nome":"Linguiça","supermercado":"APAS","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"h8nga4kBtlA6u5f4ZNj6","_score":1,"_source":{"nome":"Salame","supermercado":"APAS","preco":"7.49"}}
+{"_index":"produto","_type":"type_produto","_id":"iMnga4kBtlA6u5f4ZNj9","_score":1,"_source":{"nome":"Peito de peru","supermercado":"APAS","preco":"8.49"}}
+{"_index":"produto","_type":"type_produto","_id":"icnga4kBtlA6u5f4ZNj_","_score":1,"_source":{"nome":"Picanha","supermercado":"APAS","preco":"17.49"}}
+{"_index":"produto","_type":"type_produto","_id":"isnga4kBtlA6u5f4ZdgC","_score":1,"_source":{"nome":"Filé de peixe","supermercado":"APAS","preco":"10.49"}}
+{"_index":"produto","_type":"type_produto","_id":"i8nga4kBtlA6u5f4ZdgE","_score":1,"_source":{"nome":"Atum","supermercado":"APAS","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"jMnga4kBtlA6u5f4ZdgH","_score":1,"_source":{"nome":"Salmão","supermercado":"APAS","preco":"12.49"}}
+{"_index":"produto","_type":"type_produto","_id":"jcnga4kBtlA6u5f4ZdgJ","_score":1,"_source":{"nome":"Camarão","supermercado":"APAS","preco":"14.49"}}
+{"_index":"produto","_type":"type_produto","_id":"jsnga4kBtlA6u5f4ZdgM","_score":1,"_source":{"nome":"Ostras","supermercado":"APAS","preco":"17.49"}}
+{"_index":"produto","_type":"type_produto","_id":"j8nga4kBtlA6u5f4ZdgO","_score":1,"_source":{"nome":"Amêndoas","supermercado":"APAS","preco":"6.49"}}
+{"_index":"produto","_type":"type_produto","_id":"kMnga4kBtlA6u5f4ZdgR","_score":1,"_source":{"nome":"Castanhas","supermercado":"APAS","preco":"8.49"}}
+{"_index":"produto","_type":"type_produto","_id":"kcnga4kBtlA6u5f4ZdgV","_score":1,"_source":{"nome":"Nozes","supermercado":"APAS","preco":"7.49"}}
+{"_index":"produto","_type":"type_produto","_id":"ksnga4kBtlA6u5f4ZdgX","_score":1,"_source":{"nome":"Pistaches","supermercado":"APAS","preco":"11.49"}}
+{"_index":"produto","_type":"type_produto","_id":"k8nga4kBtlA6u5f4Zdga","_score":1,"_source":{"nome":"Suco em pó","supermercado":"APAS","preco":"1.39"}}
+{"_index":"produto","_type":"type_produto","_id":"lMnga4kBtlA6u5f4Zdgc","_score":1,"_source":{"nome":"Chá","supermercado":"APAS","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"lcnga4kBtlA6u5f4Zdgf","_score":1,"_source":{"nome":"Massa de pastel","supermercado":"APAS","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"lsnga4kBtlA6u5f4Zdgh","_score":1,"_source":{"nome":"Molho de pimenta","supermercado":"APAS","preco":"1.39"}}
+{"_index":"produto","_type":"type_produto","_id":"l8nga4kBtlA6u5f4Zdgj","_score":1,"_source":{"nome":"Batata chips","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"mMnga4kBtlA6u5f4Zdgm","_score":1,"_source":{"nome":"Cereais","supermercado":"APAS","preco":"5.99"}}
+{"_index":"produto","_type":"type_produto","_id":"mcnga4kBtlA6u5f4Zdgo","_score":1,"_source":{"nome":"Granola","supermercado":"APAS","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"msnga4kBtlA6u5f4Zdgr","_score":1,"_source":{"nome":"Barra de cereal","supermercado":"APAS","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"m8nga4kBtlA6u5f4Zdgt","_score":1,"_source":{"nome":"Geleia de mocotó","supermercado":"APAS","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"nMnga4kBtlA6u5f4Zdgv","_score":1,"_source":{"nome":"Feijão preto","supermercado":"APAS","preco":"3.99"}}
+{"_index":"produto","_type":"type_produto","_id":"ncnga4kBtlA6u5f4Zdgy","_score":1,"_source":{"nome":"Feijão carioca","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"nsnga4kBtlA6u5f4Zdg0","_score":1,"_source":{"nome":"Milho enlatado","supermercado":"APAS","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"n8nga4kBtlA6u5f4Zdg3","_score":1,"_source":{"nome":"Ervilha enlatada","supermercado":"APAS","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"oMnga4kBtlA6u5f4Zdg6","_score":1,"_source":{"nome":"Lentilha enlatada","supermercado":"APAS","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"ocnga4kBtlA6u5f4Zdg8","_score":1,"_source":{"nome":"Amido de milho","supermercado":"APAS","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"osnga4kBtlA6u5f4Zdg_","_score":1,"_source":{"nome":"Farinha de mandioca","supermercado":"APAS","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"o8nga4kBtlA6u5f4ZdhB","_score":1,"_source":{"nome":"Farofa pronta","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"pMnga4kBtlA6u5f4ZdhE","_score":1,"_source":{"nome":"Molho shoyu","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"pcnga4kBtlA6u5f4ZdhG","_score":1,"_source":{"nome":"Azeite de oliva","supermercado":"APAS","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"psnga4kBtlA6u5f4ZdhJ","_score":1,"_source":{"nome":"Vinagre","supermercado":"APAS","preco":"1.39"}}
+{"_index":"produto","_type":"type_produto","_id":"p8nga4kBtlA6u5f4ZdhL","_score":1,"_source":{"nome":"Azeitonas","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"qMnga4kBtlA6u5f4ZdhO","_score":1,"_source":{"nome":"Palmito","supermercado":"APAS","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"qcnga4kBtlA6u5f4ZdhQ","_score":1,"_source":{"nome":"Pepino em conserva","supermercado":"APAS","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"qsnga4kBtlA6u5f4ZdhT","_score":1,"_source":{"nome":"Abobrinha","supermercado":"APAS","preco":"1.39"}}
+{"_index":"produto","_type":"type_produto","_id":"q8nga4kBtlA6u5f4ZdhW","_score":1,"_source":{"nome":"Berinjela","supermercado":"APAS","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"rMnga4kBtlA6u5f4ZdhY","_score":1,"_source":{"nome":"Repolho","supermercado":"APAS","preco":"0.89"}}
+{"_index":"produto","_type":"type_produto","_id":"rcnga4kBtlA6u5f4Zdhb","_score":1,"_source":{"nome":"Milho verde","supermercado":"APAS","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"rsnga4kBtlA6u5f4Zdhd","_score":1,"_source":{"nome":"Couve-flor","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"r8nga4kBtlA6u5f4Zdhg","_score":1,"_source":{"nome":"Brócolis","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"sMnga4kBtlA6u5f4Zdhi","_score":1,"_source":{"nome":"Alho","supermercado":"APAS","preco":"1.19"}}
+{"_index":"produto","_type":"type_produto","_id":"scnga4kBtlA6u5f4Zdhl","_score":1,"_source":{"nome":"Salsa","supermercado":"APAS","preco":"0.89"}}
+{"_index":"produto","_type":"type_produto","_id":"ssnga4kBtlA6u5f4Zdhn","_score":1,"_source":{"nome":"Hortelã","supermercado":"APAS","preco":"0.89"}}
+{"_index":"produto","_type":"type_produto","_id":"s8nga4kBtlA6u5f4Zdhq","_score":1,"_source":{"nome":"Manjericão","supermercado":"APAS","preco":"1.29"}}
+{"_index":"produto","_type":"type_produto","_id":"tMnga4kBtlA6u5f4Zdhs","_score":1,"_source":{"nome":"Alecrim","supermercado":"APAS","preco":"0.89"}}
+{"_index":"produto","_type":"type_produto","_id":"tcnga4kBtlA6u5f4Zdhv","_score":1,"_source":{"nome":"Salsinha","supermercado":"APAS","preco":"0.89"}}
+{"_index":"produto","_type":"type_produto","_id":"tsnga4kBtlA6u5f4Zdhy","_score":1,"_source":{"nome":"Orégano","supermercado":"APAS","preco":"1.29"}}
+{"_index":"produto","_type":"type_produto","_id":"t8nga4kBtlA6u5f4Zdh0","_score":1,"_source":{"nome":"Pimenta-do-reino","supermercado":"APAS","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"uMnga4kBtlA6u5f4Zdh3","_score":1,"_source":{"nome":"Pimenta vermelha","supermercado":"APAS","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"ucnga4kBtlA6u5f4Zdh5","_score":1,"_source":{"nome":"Mel","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"usnga4kBtlA6u5f4Zdh8","_score":1,"_source":{"nome":"Chocolate em pó","supermercado":"APAS","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"u8nga4kBtlA6u5f4Zdh_","_score":1,"_source":{"nome":"Gelatina","supermercado":"APAS","preco":"1.29"}}
+{"_index":"produto","_type":"type_produto","_id":"vMnga4kBtlA6u5f4ZdiB","_score":1,"_source":{"nome":"Leite em pó","supermercado":"APAS","preco":"5.49"}}
+{"_index":"produto","_type":"type_produto","_id":"vcnga4kBtlA6u5f4ZdiE","_score":1,"_source":{"nome":"Cuscuz","supermercado":"APAS","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"vsnga4kBtlA6u5f4ZdiG","_score":1,"_source":{"nome":"Iogurte de frutas","supermercado":"APAS","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"v8nga4kBtlA6u5f4ZdiJ","_score":1,"_source":{"nome":"Chantilly","supermercado":"APAS","preco":"3.49"}}
+{"_index":"produto","_type":"type_produto","_id":"wMnga4kBtlA6u5f4ZdiL","_score":1,"_source":{"nome":"Pudim","supermercado":"APAS","preco":"2.79"}}
+{"_index":"produto","_type":"type_produto","_id":"wcnga4kBtlA6u5f4ZdiO","_score":1,"_source":{"nome":"Gelatina em pó","supermercado":"APAS","preco":"0.89"}}
+{"_index":"produto","_type":"type_produto","_id":"wsnga4kBtlA6u5f4ZdiQ","_score":1,"_source":{"nome":"Bala","supermercado":"APAS","preco":"0.39"}}
+{"_index":"produto","_type":"type_produto","_id":"w8nga4kBtlA6u5f4ZdiT","_score":1,"_source":{"nome":"Pipoca doce","supermercado":"APAS","preco":"1.79"}}
+{"_index":"produto","_type":"type_produto","_id":"xMnga4kBtlA6u5f4ZdiX","_score":1,"_source":{"nome":"Amendoim","supermercado":"APAS","preco":"1.29"}}
+{"_index":"produto","_type":"type_produto","_id":"xcnga4kBtlA6u5f4ZdiZ","_score":1,"_source":{"nome":"Salgadinho de milho","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"xsnga4kBtlA6u5f4Zdic","_score":1,"_source":{"nome":"Salgadinho de queijo","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"x8nga4kBtlA6u5f4Zdie","_score":1,"_source":{"nome":"Salgadinho de cebola","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"yMnga4kBtlA6u5f4Zdig","_score":1,"_source":{"nome":"Salgadinho de churrasco","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"ycnga4kBtlA6u5f4Zdij","_score":1,"_source":{"nome":"Salgadinho de bacon","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"ysnga4kBtlA6u5f4Zdim","_score":1,"_source":{"nome":"Salgadinho de pimenta","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"y8nga4kBtlA6u5f4Zdio","_score":1,"_source":{"nome":"Salgadinho de limão","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"zMnga4kBtlA6u5f4Zdir","_score":1,"_source":{"nome":"Salgadinho de salsa","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"zcnga4kBtlA6u5f4Zdiu","_score":1,"_source":{"nome":"Salgadinho de alho","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"zsnga4kBtlA6u5f4Zdiw","_score":1,"_source":{"nome":"Salgadinho de ervas","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"z8nga4kBtlA6u5f4Zdiz","_score":1,"_source":{"nome":"Salgadinho de queijo e cebola","supermercado":"APAS","preco":"4.49"}}
+{"_index":"produto","_type":"type_produto","_id":"0Mnga4kBtlA6u5f4Zdi1","_score":1,"_source":{"nome":"Salgadinho de presunto e queijo","supermercado":"APAS","preco":"5.49"}}
